@@ -1,0 +1,3455 @@
+{
+    "datadump": [
+        {
+            "hash": "THKE",
+            "name": "The Key to the Garden of Aban",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Aban",
+                    "lowqlid": 226824,
+                    "highqlid": 226824
+                }
+            ]
+        },
+        {
+            "hash": "TEKE",
+            "name": "The Key to the Garden of Cama",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Cama",
+                    "lowqlid": 226985,
+                    "highqlid": 226985
+                }
+            ]
+        },
+        {
+            "hash": "THKY",
+            "name": "The Key to the Garden of Dalja",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Dalja",
+                    "lowqlid": 226986,
+                    "highqlid": 226986
+                }
+            ]
+        },
+        {
+            "hash": "TKKO",
+            "name": "The Key to the Garden of Enel",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Enel",
+                    "lowqlid": 226987,
+                    "highqlid": 226987
+                }
+            ]
+        },
+        {
+            "hash": "TEKY",
+            "name": "The Key to the Garden of Lord Galahad",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Lord Galahad",
+                    "lowqlid": 226988,
+                    "highqlid": 226988
+                }
+            ]
+        },
+        {
+            "hash": "TKKE",
+            "name": "The Key to the Garden of Gilthar",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Gilthar",
+                    "lowqlid": 226989,
+                    "highqlid": 226989
+                }
+            ]
+        },
+        {
+            "hash": "TKKY",
+            "name": "The Key to the Garden of Lord Mordeth",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Lord Mordeth",
+                    "lowqlid": 226990,
+                    "highqlid": 226990
+                }
+            ]
+        },
+        {
+            "hash": "TKKT",
+            "name": "The Key to the Garden of Ocra",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Ocra",
+                    "lowqlid": 226991,
+                    "highqlid": 226991
+                }
+            ]
+        },
+        {
+            "hash": "TEKH",
+            "name": "The Key to the Garden of Roch",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Roch",
+                    "lowqlid": 226992,
+                    "highqlid": 226992
+                }
+            ]
+        },
+        {
+            "hash": "TYKO",
+            "name": "The Key to the Garden of Shere",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Shere",
+                    "lowqlid": 226993,
+                    "highqlid": 226993
+                }
+            ]
+        },
+        {
+            "hash": "TOKE",
+            "name": "The Key to the Garden of Thrak",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Thrak",
+                    "lowqlid": 226994,
+                    "highqlid": 226994
+                }
+            ]
+        },
+        {
+            "hash": "TYKT",
+            "name": "The Key to the Garden of Vanya",
+            "category": "Garden Key",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Key to the Garden of Vanya",
+                    "lowqlid": 226995,
+                    "highqlid": 226995
+                }
+            ]
+        },
+        {
+            "hash": "AEEG",
+            "name": "TESTITEM: All Engineer NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Engineer NFs",
+                    "lowqlid": 38516,
+                    "highqlid": 38516
+                }
+            ]
+        },
+        {
+            "hash": "ALAD",
+            "name": "TESTITEM: All Adventurer NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Adventurer NFs",
+                    "lowqlid": 38523,
+                    "highqlid": 38523
+                }
+            ]
+        },
+        {
+            "hash": "ALAG",
+            "name": "TESTITEM: All Agent NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Agent NFs",
+                    "lowqlid": 38512,
+                    "highqlid": 38512
+                }
+            ]
+        },
+        {
+            "hash": "ALBU",
+            "name": "TESTITEM: All Bureaucrat NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Bureaucrat NFs",
+                    "lowqlid": 38513,
+                    "highqlid": 38513
+                }
+            ]
+        },
+        {
+            "hash": "ALDO",
+            "name": "TESTITEM: All Doctor NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Doctor NFs",
+                    "lowqlid": 38514,
+                    "highqlid": 38514
+                }
+            ]
+        },
+        {
+            "hash": "ALEN",
+            "name": "TESTITEM: All Enforcer NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Enforcer NFs",
+                    "lowqlid": 38515,
+                    "highqlid": 38515
+                }
+            ]
+        },
+        {
+            "hash": "ALFI",
+            "name": "TESTITEM: All Fixer NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Fixer NFs",
+                    "lowqlid": 38517,
+                    "highqlid": 38517
+                }
+            ]
+        },
+        {
+            "hash": "ALGE",
+            "name": "TESTITEM: All General NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All General NFs",
+                    "lowqlid": 38481,
+                    "highqlid": 38481
+                }
+            ]
+        },
+        {
+            "hash": "ALMA",
+            "name": "TESTITEM: All Martial Artist NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Martial Artist NFs",
+                    "lowqlid": 38518,
+                    "highqlid": 38518
+                }
+            ]
+        },
+        {
+            "hash": "ALMT",
+            "name": "TESTITEM: All Meta-Physicist NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Meta-Physicist NFs",
+                    "lowqlid": 38519,
+                    "highqlid": 38519
+                }
+            ]
+        },
+        {
+            "hash": "ALNA",
+            "name": "TESTITEM: All Nanotechnician NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Nanotechnician NFs",
+                    "lowqlid": 38520,
+                    "highqlid": 38520
+                }
+            ]
+        },
+        {
+            "hash": "ALSO",
+            "name": "TESTITEM: All Soldier NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Soldier NFs",
+                    "lowqlid": 38522,
+                    "highqlid": 38522
+                }
+            ]
+        },
+        {
+            "hash": "ALTR",
+            "name": "TESTITEM: All Trader NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Trader NFs",
+                    "lowqlid": 38511,
+                    "highqlid": 38511
+                }
+            ]
+        },
+        {
+            "hash": "TEAL",
+            "name": "TESTITEM: All Shade NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Shade NFs",
+                    "lowqlid": 216694,
+                    "highqlid": 216694
+                }
+            ]
+        },
+        {
+            "hash": "TSAL",
+            "name": "TESTITEM: All Keeper NFs",
+            "category": "Nano Formula Pack",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTITEM: All Keeper NFs",
+                    "lowqlid": 216695,
+                    "highqlid": 216695
+                }
+            ]
+        },
+        {
+            "hash": "TOFA",
+            "name": "Asp of Titaniush",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Asp of Titaniush",
+                    "lowqlid": 275848,
+                    "highqlid": 275848
+                }
+            ]
+        },
+        {
+            "hash": "CAOG",
+            "name": "Gold Acantophis",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Gold Acantophis",
+                    "lowqlid": 154899,
+                    "highqlid": 154899
+                }
+            ]
+        },
+        {
+            "hash": "RSIB",
+            "name": "Bitis Striker",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Bitis Striker",
+                    "lowqlid": 154901,
+                    "highqlid": 154901
+                }
+            ]
+        },
+        {
+            "hash": "NHOC",
+            "name": "Coplan's Hand Taipan",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Coplan's Hand Taipan",
+                    "lowqlid": 154900,
+                    "highqlid": 154900
+                }
+            ]
+        },
+        {
+            "hash": "RCHT",
+            "name": "The Crotalus",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "The Crotalus",
+                    "lowqlid": 154898,
+                    "highqlid": 154898
+                }
+            ]
+        },
+        {
+            "hash": "OCZA",
+            "name": "Azure Cobra of Orma",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Azure Cobra of Orma",
+                    "lowqlid": 154902,
+                    "highqlid": 154902
+                }
+            ]
+        },
+        {
+            "hash": "ONIW",
+            "name": "Wixel's Notum Python",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Wixel's Notum Python",
+                    "lowqlid": 154903,
+                    "highqlid": 154903
+                }
+            ]
+        },
+        {
+            "hash": "FOSA",
+            "name": "Asp of Semol",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Asp of Semol",
+                    "lowqlid": 154896,
+                    "highqlid": 154896
+                }
+            ]
+        },
+        {
+            "hash": "TSIV",
+            "name": "Viper Staff",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Viper Staff",
+                    "lowqlid": 154897,
+                    "highqlid": 267760
+                }
+            ]
+        },
+        {
+            "hash": "IXLK",
+            "name": "Shield of Esa",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shield of Esa",
+                    "lowqlid": 275851,
+                    "highqlid": 275851
+                }
+            ]
+        },
+        {
+            "hash": "ZOLS",
+            "name": "Shield of Zset",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shield of Zset",
+                    "lowqlid": 273377,
+                    "highqlid": 273377
+                }
+            ]
+        },
+        {
+            "hash": "ZOZS",
+            "name": "Shield of Zset",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shield of Zset",
+                    "lowqlid": 305605,
+                    "highqlid": 305605
+                }
+            ]
+        },
+        {
+            "hash": "AOHS",
+            "name": "Shield of Asmodian",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shield of Asmodian",
+                    "lowqlid": 154929,
+                    "highqlid": 154929
+                }
+            ]
+        },
+        {
+            "hash": "UGOM",
+            "name": "Mocham's Guard",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Mocham's Guard",
+                    "lowqlid": 154927,
+                    "highqlid": 154927
+                }
+            ]
+        },
+        {
+            "hash": "AWED",
+            "name": "Death Ward",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Death Ward",
+                    "lowqlid": 154925,
+                    "highqlid": 154925
+                }
+            ]
+        },
+        {
+            "hash": "LFEB",
+            "name": "Belthior's Flame Ward",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Belthior's Flame Ward",
+                    "lowqlid": 154932,
+                    "highqlid": 154932
+                }
+            ]
+        },
+        {
+            "hash": "RBAW",
+            "name": "Wave Breaker",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Wave Breaker",
+                    "lowqlid": 154924,
+                    "highqlid": 154924
+                }
+            ]
+        },
+        {
+            "hash": "HSVL",
+            "name": "Living Shield of Evernan",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Living Shield of Evernan",
+                    "lowqlid": 154926,
+                    "highqlid": 154926
+                }
+            ]
+        },
+        {
+            "hash": "UGOS",
+            "name": "Solar Guard",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Solar Guard",
+                    "lowqlid": 154930,
+                    "highqlid": 154930
+                }
+            ]
+        },
+        {
+            "hash": "EDON",
+            "name": "Notum Defender",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Notum Defender",
+                    "lowqlid": 154928,
+                    "highqlid": 154928
+                }
+            ]
+        },
+        {
+            "hash": "UBIV",
+            "name": "Vital Buckler",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Vital Buckler",
+                    "lowqlid": 154931,
+                    "highqlid": 154931
+                }
+            ]
+        },
+        {
+            "hash": "NSAS",
+            "name": "Shadowweb Spinner MK I",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK I",
+                    "lowqlid": 224390,
+                    "highqlid": 224390
+                }
+            ]
+        },
+        {
+            "hash": "NSHS",
+            "name": "Shadowweb Spinner MK II",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK II",
+                    "lowqlid": 224392,
+                    "highqlid": 224392
+                }
+            ]
+        },
+        {
+            "hash": "ESWS",
+            "name": "Shadowweb Spinner MK III",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK III",
+                    "lowqlid": 224393,
+                    "highqlid": 224393
+                }
+            ]
+        },
+        {
+            "hash": "NSDS",
+            "name": "Shadowweb Spinner MK IV",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK IV",
+                    "lowqlid": 224394,
+                    "highqlid": 224394
+                }
+            ]
+        },
+        {
+            "hash": "MSBS",
+            "name": "Shadowweb Spinner MK V",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK V",
+                    "lowqlid": 224395,
+                    "highqlid": 224395
+                }
+            ]
+        },
+        {
+            "hash": "MSAS",
+            "name": "Shadowweb Spinner MK VI",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK VI",
+                    "lowqlid": 224396,
+                    "highqlid": 224396
+                }
+            ]
+        },
+        {
+            "hash": "MSES",
+            "name": "Shadowweb Spinner MK VII",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK VII",
+                    "lowqlid": 224397,
+                    "highqlid": 224397
+                }
+            ]
+        },
+        {
+            "hash": "NSWS",
+            "name": "Shadowweb Spinner MK VIII",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK VIII",
+                    "lowqlid": 224398,
+                    "highqlid": 224398
+                }
+            ]
+        },
+        {
+            "hash": "PSWS",
+            "name": "Shadowweb Spinner MK IX",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK IX",
+                    "lowqlid": 224399,
+                    "highqlid": 224399
+                }
+            ]
+        },
+        {
+            "hash": "RSBS",
+            "name": "Shadowweb Spinner MK X",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK X",
+                    "lowqlid": 224400,
+                    "highqlid": 224400
+                }
+            ]
+        },
+        {
+            "hash": "XSES",
+            "name": "Shadowweb Spinner MK XI",
+            "category": "external-shin",
+            "available": true,
+            "items": [
+                {
+                    "name": "Shadowweb Spinner MK XI",
+                    "lowqlid": 273350,
+                    "highqlid": 273350
+                }
+            ]
+        },
+        {
+            "hash": "G3G6",
+            "name": "Chosen Soldier Armor Set",
+            "category": "Tier Armor",
+            "profession": "Soldier",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Soldier Cuirass",
+                    "lowqlid": 216916,
+                    "highqlid": 216917
+                },
+                {
+                    "name": "Chosen Soldier Shoulderplate",
+                    "lowqlid": 216918,
+                    "highqlid": 216919,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Soldier Helmet",
+                    "lowqlid": 216920,
+                    "highqlid": 216921
+                },
+                {
+                    "name": "Chosen Soldier Gloves",
+                    "lowqlid": 216922,
+                    "highqlid": 216923
+                },
+                {
+                    "name": "Chosen Soldier Sleeves",
+                    "lowqlid": 216924,
+                    "highqlid": 216925,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Soldier Body Armor",
+                    "lowqlid": 216926,
+                    "highqlid": 216927
+                },
+                {
+                    "name": "Chosen Soldier Boots",
+                    "lowqlid": 216928,
+                    "highqlid": 216929
+                },
+                {
+                    "name": "Chosen Soldier Pants",
+                    "lowqlid": 216930,
+                    "highqlid": 216931
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "1RYU",
+            "name": "Chosen Martial Artist Armor Set",
+            "category": "Tier Armor",
+            "profession": "Martial Artist",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Martial Artist Cuirass",
+                    "lowqlid": 217635,
+                    "highqlid": 217636
+                },
+                {
+                    "name": "Chosen Martial Artist Shoulderpads",
+                    "lowqlid": 217637,
+                    "highqlid": 217638,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Martial Artist Helmet",
+                    "lowqlid": 217639,
+                    "highqlid": 217640
+                },
+                {
+                    "name": "Chosen Martial Artist Gloves",
+                    "lowqlid": 217641,
+                    "highqlid": 217642
+                },
+                {
+                    "name": "Chosen Martial Artist Sleeves",
+                    "lowqlid": 217643,
+                    "highqlid": 217644,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Martial Artist Body Armor",
+                    "lowqlid": 217645,
+                    "highqlid": 217646
+                },
+                {
+                    "name": "Chosen Martial Artist Boots",
+                    "lowqlid": 217647,
+                    "highqlid": 217648
+                },
+                {
+                    "name": "Chosen Martial Artist Pants",
+                    "lowqlid": 217649,
+                    "highqlid": 217650
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "36HI",
+            "name": "Chosen Engineer Armor Set",
+            "category": "Tier Armor",
+            "profession": "Engineer",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Engineer Helper",
+                    "lowqlid": 218172,
+                    "highqlid": 218173
+                },
+                {
+                    "name": "Chosen Engineer Shoulderpad",
+                    "lowqlid": 218174,
+                    "highqlid": 218175,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Engineer Helmet",
+                    "lowqlid": 218176,
+                    "highqlid": 218177
+                },
+                {
+                    "name": "Chosen Engineer Gloves",
+                    "lowqlid": 218178,
+                    "highqlid": 218179
+                },
+                {
+                    "name": "Chosen Engineer Sleeves",
+                    "lowqlid": 218180,
+                    "highqlid": 218181,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Engineer Body",
+                    "lowqlid": 218182,
+                    "highqlid": 218183
+                },
+                {
+                    "name": "Chosen Engineer Boots",
+                    "lowqlid": 218184,
+                    "highqlid": 218185
+                },
+                {
+                    "name": "Chosen Engineer Pants",
+                    "lowqlid": 218186,
+                    "highqlid": 218187
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "PCK9",
+            "name": "Chosen Fixer Armor Set",
+            "category": "Tier Armor",
+            "profession": "Fixer",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Fixer Pants",
+                    "lowqlid": 218279,
+                    "highqlid": 218280
+                },
+                {
+                    "name": "Chosen Fixer Boots",
+                    "lowqlid": 218281,
+                    "highqlid": 218282
+                },
+                {
+                    "name": "Chosen Fixer Body Armor",
+                    "lowqlid": 218283,
+                    "highqlid": 218284
+                },
+                {
+                    "name": "Chosen Fixer Sleeves",
+                    "lowqlid": 218285,
+                    "highqlid": 218286,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Fixer Gloves",
+                    "lowqlid": 218287,
+                    "highqlid": 218288
+                },
+                {
+                    "name": "Chosen Fixer Helmet",
+                    "lowqlid": 218289,
+                    "highqlid": 218290
+                },
+                {
+                    "name": "Chosen Fixer Shoulderpad",
+                    "lowqlid": 218291,
+                    "highqlid": 218292,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Fixer Manteau",
+                    "lowqlid": 218293,
+                    "highqlid": 218294
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "MON0",
+            "name": "Chosen Agent Armor Set",
+            "category": "Tier Armor",
+            "profession": "Agent",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Agent Manteau",
+                    "lowqlid": 218535,
+                    "highqlid": 218536
+                },
+                {
+                    "name": "Chosen Agent Shoulderpad",
+                    "lowqlid": 218537,
+                    "highqlid": 218538,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Agent Helmet",
+                    "lowqlid": 218539,
+                    "highqlid": 218540
+                },
+                {
+                    "name": "Chosen Agent Gloves",
+                    "lowqlid": 218541,
+                    "highqlid": 218542
+                },
+                {
+                    "name": "Chosen Agent Sleeves",
+                    "lowqlid": 218543,
+                    "highqlid": 218544,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Agent Body Armor",
+                    "lowqlid": 218545,
+                    "highqlid": 218546
+                },
+                {
+                    "name": "Chosen Agent Boots",
+                    "lowqlid": 218547,
+                    "highqlid": 218548
+                },
+                {
+                    "name": "Chosen Agent Pants",
+                    "lowqlid": 218549,
+                    "highqlid": 218550
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "HNXH",
+            "name": "Chosen Adventurer Armor Set",
+            "category": "Tier Armor",
+            "profession": "Adventurer",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Adventurer Support System",
+                    "lowqlid": 218577,
+                    "highqlid": 218578
+                },
+                {
+                    "name": "Chosen Adventurer Shoulder Cover",
+                    "lowqlid": 218579,
+                    "highqlid": 218580,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Adventurer Helmet",
+                    "lowqlid": 218581,
+                    "highqlid": 218582
+                },
+                {
+                    "name": "Chosen Adventurer Gloves",
+                    "lowqlid": 218583,
+                    "highqlid": 218584
+                },
+                {
+                    "name": "Chosen Adventurer Sleeves",
+                    "lowqlid": 218585,
+                    "highqlid": 218586,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Adventurer Body Armor",
+                    "lowqlid": 218587,
+                    "highqlid": 218588
+                },
+                {
+                    "name": "Chosen Adventurer Boots",
+                    "lowqlid": 218589,
+                    "highqlid": 218590
+                },
+                {
+                    "name": "Chosen Adventurer Pants",
+                    "lowqlid": 218591,
+                    "highqlid": 218592
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "AF62",
+            "name": "Chosen Trader Armor Set",
+            "category": "Tier Armor",
+            "profession": "Trader",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Trader Survival Gear",
+                    "lowqlid": 218881,
+                    "highqlid": 218882
+                },
+                {
+                    "name": "Chosen Trader Shoulderpad",
+                    "lowqlid": 218883,
+                    "highqlid": 218884,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Trader Helmet",
+                    "lowqlid": 218885,
+                    "highqlid": 218886
+                },
+                {
+                    "name": "Chosen Trader Gloves",
+                    "lowqlid": 218899,
+                    "highqlid": 218900
+                },
+                {
+                    "name": "Chosen Trader Sleeves",
+                    "lowqlid": 218901,
+                    "highqlid": 218902,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Trader Body Armor",
+                    "lowqlid": 218903,
+                    "highqlid": 218904
+                },
+                {
+                    "name": "Chosen Trader Boots",
+                    "lowqlid": 218905,
+                    "highqlid": 218906
+                },
+                {
+                    "name": "Chosen Trader Pants",
+                    "lowqlid": 218907,
+                    "highqlid": 218908
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "XK2F",
+            "name": "Chosen Bureaucrat Armor Set",
+            "category": "Tier Armor",
+            "profession": "Bureaucrat",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Bureaucrat Pants",
+                    "lowqlid": 219023,
+                    "highqlid": 219024
+                },
+                {
+                    "name": "Chosen Bureaucrat Boots",
+                    "lowqlid": 219025,
+                    "highqlid": 219026
+                },
+                {
+                    "name": "Chosen Bureaucrat Vest",
+                    "lowqlid": 219029,
+                    "highqlid": 219030
+                },
+                {
+                    "name": "Chosen Bureaucrat Sleeves",
+                    "lowqlid": 219033,
+                    "highqlid": 219034,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Bureaucrat Gloves",
+                    "lowqlid": 219037,
+                    "highqlid": 219038
+                },
+                {
+                    "name": "Chosen Bureaucrat Headgear",
+                    "lowqlid": 219041,
+                    "highqlid": 219042
+                },
+                {
+                    "name": "Chosen Bureaucrat Shoulderpad",
+                    "lowqlid": 219045,
+                    "highqlid": 219046,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Bureaucrat Cloak",
+                    "lowqlid": 219049,
+                    "highqlid": 219050
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "7138",
+            "name": "Chosen Enforcer Armor Set",
+            "category": "Tier Armor",
+            "profession": "Enforcer",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Enforcer Mantle",
+                    "lowqlid": 220269,
+                    "highqlid": 220270
+                },
+                {
+                    "name": "Chosen Enforcer Shoulderplate",
+                    "lowqlid": 220271,
+                    "highqlid": 220272,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Enforcer Helmet",
+                    "lowqlid": 220275,
+                    "highqlid": 220276
+                },
+                {
+                    "name": "Chosen Enforcer Gauntlets",
+                    "lowqlid": 220277,
+                    "highqlid": 220278
+                },
+                {
+                    "name": "Chosen Enforcer Sleeves",
+                    "lowqlid": 220279,
+                    "highqlid": 220280,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Enforcer Breastplate",
+                    "lowqlid": 220281,
+                    "highqlid": 220282
+                },
+                {
+                    "name": "Chosen Enforcer Boots",
+                    "lowqlid": 220283,
+                    "highqlid": 220284
+                },
+                {
+                    "name": "Chosen Enforcer Pants",
+                    "lowqlid": 220287,
+                    "highqlid": 220288
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "MQIG",
+            "name": "Chosen Doctor Armor Set",
+            "category": "Tier Armor",
+            "profession": "Doctor",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Doctor Boots",
+                    "lowqlid": 214841,
+                    "highqlid": 214842
+                },
+                {
+                    "name": "Chosen Doctor Body",
+                    "lowqlid": 214843,
+                    "highqlid": 214844
+                },
+                {
+                    "name": "Chosen Doctor Sleeves",
+                    "lowqlid": 214845,
+                    "highqlid": 214846,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Doctor Gloves",
+                    "lowqlid": 214847,
+                    "highqlid": 214848
+                },
+                {
+                    "name": "Chosen Doctor Helmet",
+                    "lowqlid": 214849,
+                    "highqlid": 214850
+                },
+                {
+                    "name": "Chosen Doctor Shoulderpad",
+                    "lowqlid": 214851,
+                    "highqlid": 214852,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Doctor Life Support",
+                    "lowqlid": 214853,
+                    "highqlid": 214854
+                },
+                {
+                    "name": "Chosen Doctor Pants",
+                    "lowqlid": 214857,
+                    "highqlid": 214858
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "T7HJ",
+            "name": "Chosen Nano-Technician Armor Set",
+            "category": "Tier Armor",
+            "profession": "Nano-Technician",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Nano Technician Boots",
+                    "lowqlid": 214794,
+                    "highqlid": 214795
+                },
+                {
+                    "name": "Chosen Nano Technician Body Armor",
+                    "lowqlid": 214796,
+                    "highqlid": 214797
+                },
+                {
+                    "name": "Chosen Nano Technician Sleeves",
+                    "lowqlid": 214798,
+                    "highqlid": 214799,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Nano Technician Gloves",
+                    "lowqlid": 214800,
+                    "highqlid": 214801
+                },
+                {
+                    "name": "Chosen Nano Technician Helmet",
+                    "lowqlid": 214802,
+                    "highqlid": 214803
+                },
+                {
+                    "name": "Chosen Nano Technician Shoulderpad",
+                    "lowqlid": 214804,
+                    "highqlid": 214805,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Nano Technician Cloak",
+                    "lowqlid": 214806,
+                    "highqlid": 214807
+                },
+                {
+                    "name": "Chosen Nano Technician Pants",
+                    "lowqlid": 214888,
+                    "highqlid": 214889
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "L0S9",
+            "name": "Chosen Meta-Physicist Armor Set",
+            "category": "Tier Armor",
+            "profession": "Meta-Physicist",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Metaphysicist Pants",
+                    "lowqlid": 222603,
+                    "highqlid": 222604
+                },
+                {
+                    "name": "Chosen Metaphysicist Boots",
+                    "lowqlid": 222605,
+                    "highqlid": 222606
+                },
+                {
+                    "name": "Chosen Metaphysicist Body Armor",
+                    "lowqlid": 222609,
+                    "highqlid": 222610
+                },
+                {
+                    "name": "Chosen Metaphysicist Sleeves",
+                    "lowqlid": 222611,
+                    "highqlid": 222612,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Metaphysicist Gloves",
+                    "lowqlid": 222613,
+                    "highqlid": 222614
+                },
+                {
+                    "name": "Chosen Metaphysicist Headgear",
+                    "lowqlid": 222617,
+                    "highqlid": 222618
+                },
+                {
+                    "name": "Chosen Metaphysicist Shoulder Cover",
+                    "lowqlid": 222621,
+                    "highqlid": 222622,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Metaphysicist Wings",
+                    "lowqlid": 222625,
+                    "highqlid": 222626
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "X1PM",
+            "name": "Chosen Keeper Armor Set",
+            "category": "Tier Armor",
+            "profession": "Keeper",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Keeper Support System",
+                    "lowqlid": 218002,
+                    "highqlid": 218003
+                },
+                {
+                    "name": "Chosen Keeper Pauldron",
+                    "lowqlid": 218004,
+                    "highqlid": 218005,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Keeper Barbute",
+                    "lowqlid": 218006,
+                    "highqlid": 218007
+                },
+                {
+                    "name": "Chosen Keeper Gauntlets",
+                    "lowqlid": 218008,
+                    "highqlid": 218009
+                },
+                {
+                    "name": "Chosen Keeper Vambrace",
+                    "lowqlid": 218010,
+                    "highqlid": 218011,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Keeper Cuirass",
+                    "lowqlid": 218012,
+                    "highqlid": 218013
+                },
+                {
+                    "name": "Chosen Keeper Sabatons",
+                    "lowqlid": 218014,
+                    "highqlid": 218015
+                },
+                {
+                    "name": "Chosen Keeper Greaves",
+                    "lowqlid": 218016,
+                    "highqlid": 218017
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "J75G",
+            "name": "Chosen Shade Armor Set",
+            "category": "Tier Armor",
+            "profession": "Shade",
+            "faction": "Omni",
+            "available": true,
+            "items": [
+                {
+                    "name": "Chosen Shade Leg Covers",
+                    "lowqlid": 222661,
+                    "highqlid": 222662
+                },
+                {
+                    "name": "Chosen Shade Foot Covers",
+                    "lowqlid": 222663,
+                    "highqlid": 222664
+                },
+                {
+                    "name": "Chosen Shade Body Wraps",
+                    "lowqlid": 222667,
+                    "highqlid": 222668
+                },
+                {
+                    "name": "Chosen Shade Arm Tattoos",
+                    "lowqlid": 222669,
+                    "highqlid": 222670,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Shade Hand Wraps",
+                    "lowqlid": 222673,
+                    "highqlid": 222674
+                },
+                {
+                    "name": "Chosen Shade Headgear",
+                    "lowqlid": 222677,
+                    "highqlid": 222678
+                },
+                {
+                    "name": "Chosen Shade Shoulder Tattoos",
+                    "lowqlid": 222681,
+                    "highqlid": 222682,
+                    "quantity": 2
+                },
+                {
+                    "name": "Chosen Shade Support System",
+                    "lowqlid": 222683,
+                    "highqlid": 222684
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "JYHE",
+            "name": "Faithful Soldier Armor Set",
+            "category": "Tier Armor",
+            "profession": "Soldier",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Soldier Pants",
+                    "lowqlid": 214824,
+                    "highqlid": 214825
+                },
+                {
+                    "name": "Faithful Soldier Boots",
+                    "lowqlid": 214826,
+                    "highqlid": 214827
+                },
+                {
+                    "name": "Faithful Soldier Body Armor",
+                    "lowqlid": 214828,
+                    "highqlid": 214829
+                },
+                {
+                    "name": "Faithful Soldier Sleeves",
+                    "lowqlid": 214830,
+                    "highqlid": 214831,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Soldier Gloves",
+                    "lowqlid": 214832,
+                    "highqlid": 214833
+                },
+                {
+                    "name": "Faithful Soldier Helmet",
+                    "lowqlid": 214834,
+                    "highqlid": 214835
+                },
+                {
+                    "name": "Faithful Soldier Shoulderplate",
+                    "lowqlid": 214836,
+                    "highqlid": 214837,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Soldier Cuirass",
+                    "lowqlid": 214838,
+                    "highqlid": 214839
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "OHJ5",
+            "name": "Faithful Martial Artist Armor Set",
+            "category": "Tier Armor",
+            "profession": "Martial Artist",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Martial Artist Pants",
+                    "lowqlid": 214808,
+                    "highqlid": 214809
+                },
+                {
+                    "name": "Faithful Martial Artist Boots",
+                    "lowqlid": 214810,
+                    "highqlid": 214811
+                },
+                {
+                    "name": "Faithful Martial Artist Body Armor",
+                    "lowqlid": 214812,
+                    "highqlid": 214813
+                },
+                {
+                    "name": "Faithful Martial Artist Sleeves",
+                    "lowqlid": 214814,
+                    "highqlid": 214815,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Martial Artist Gloves",
+                    "lowqlid": 214816,
+                    "highqlid": 214817
+                },
+                {
+                    "name": "Faithful Martial Artist Helmet",
+                    "lowqlid": 214818,
+                    "highqlid": 214819
+                },
+                {
+                    "name": "Faithful Martial Artist Shoulderpads",
+                    "lowqlid": 214820,
+                    "highqlid": 214821,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Martial Artist Cuirass",
+                    "lowqlid": 214822,
+                    "highqlid": 214823
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "0GHW",
+            "name": "Faithful Engineer Armor Set",
+            "category": "Tier Armor",
+            "profession": "Engineer",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Engineer Pants",
+                    "lowqlid": 218206,
+                    "highqlid": 218207
+                },
+                {
+                    "name": "Faithful Engineer Boots",
+                    "lowqlid": 218208,
+                    "highqlid": 218209
+                },
+                {
+                    "name": "Faithful Engineer Body",
+                    "lowqlid": 218210,
+                    "highqlid": 218211
+                },
+                {
+                    "name": "Faithful Engineer Sleeves",
+                    "lowqlid": 218212,
+                    "highqlid": 218213,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Engineer Gloves",
+                    "lowqlid": 218214,
+                    "highqlid": 218215
+                },
+                {
+                    "name": "Faithful Engineer Helmet",
+                    "lowqlid": 218216,
+                    "highqlid": 218217
+                },
+                {
+                    "name": "Faithful Engineer Shoulderpad",
+                    "lowqlid": 218218,
+                    "highqlid": 218219,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Engineer Helper",
+                    "lowqlid": 218220,
+                    "highqlid": 218221
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "Z6AJ",
+            "name": "Faithful Fixer Armor Set",
+            "category": "Tier Armor",
+            "profession": "Fixer",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Fixer Manteau",
+                    "lowqlid": 218260,
+                    "highqlid": 218261
+                },
+                {
+                    "name": "Faithful Fixer Shoulderpad",
+                    "lowqlid": 218262,
+                    "highqlid": 218263,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Fixer Helmet",
+                    "lowqlid": 218264,
+                    "highqlid": 218265
+                },
+                {
+                    "name": "Faithful Fixer Gloves",
+                    "lowqlid": 218266,
+                    "highqlid": 218267
+                },
+                {
+                    "name": "Faithful Fixer Sleeves",
+                    "lowqlid": 218268,
+                    "highqlid": 218269,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Fixer Body Armor",
+                    "lowqlid": 218270,
+                    "highqlid": 218271
+                },
+                {
+                    "name": "Faithful Fixer Boots",
+                    "lowqlid": 218272,
+                    "highqlid": 218273
+                },
+                {
+                    "name": "Faithful Fixer Pants",
+                    "lowqlid": 218274,
+                    "highqlid": 218275
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "RRT9",
+            "name": "Faithful Agent Armor Set",
+            "category": "Tier Armor",
+            "profession": "Agent",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Agent Pants",
+                    "lowqlid": 218489,
+                    "highqlid": 218490
+                },
+                {
+                    "name": "Faithful Agent Boots",
+                    "lowqlid": 218514,
+                    "highqlid": 218515
+                },
+                {
+                    "name": "Faithful Agent Body Armor",
+                    "lowqlid": 218516,
+                    "highqlid": 218517
+                },
+                {
+                    "name": "Faithful Agent Sleeves",
+                    "lowqlid": 218518,
+                    "highqlid": 218519,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Agent Gloves",
+                    "lowqlid": 218520,
+                    "highqlid": 218521
+                },
+                {
+                    "name": "Faithful Agent Helmet",
+                    "lowqlid": 218522,
+                    "highqlid": 218523
+                },
+                {
+                    "name": "Faithful Agent Shoulderpad",
+                    "lowqlid": 218525,
+                    "highqlid": 218526,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Agent Manteau",
+                    "lowqlid": 218529,
+                    "highqlid": 218530
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "UG3Z",
+            "name": "Faithful Adventurer Armor Set",
+            "category": "Tier Armor",
+            "profession": "Adventurer",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Adventurer Support System",
+                    "lowqlid": 218606,
+                    "highqlid": 218607
+                },
+                {
+                    "name": "Faithful Adventurer Shoulder Cover",
+                    "lowqlid": 218608,
+                    "highqlid": 218609,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Adventurer Helmet",
+                    "lowqlid": 218610,
+                    "highqlid": 218611
+                },
+                {
+                    "name": "Faithful Adventurer Gloves",
+                    "lowqlid": 218612,
+                    "highqlid": 218613
+                },
+                {
+                    "name": "Faithful Adventurer Sleeves",
+                    "lowqlid": 218624,
+                    "highqlid": 218625,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Adventurer Body Armor",
+                    "lowqlid": 218626,
+                    "highqlid": 218627
+                },
+                {
+                    "name": "Faithful Adventurer Boots",
+                    "lowqlid": 218633,
+                    "highqlid": 218634
+                },
+                {
+                    "name": "Faithful Adventurer Pants",
+                    "lowqlid": 218635,
+                    "highqlid": 218636
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "WGCB",
+            "name": "Faithful Trader Armor Set",
+            "category": "Tier Armor",
+            "profession": "Trader",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Trader Pants",
+                    "lowqlid": 218820,
+                    "highqlid": 218821
+                },
+                {
+                    "name": "Faithful Trader Boots",
+                    "lowqlid": 218858,
+                    "highqlid": 218859
+                },
+                {
+                    "name": "Faithful Trader Body Armor",
+                    "lowqlid": 218860,
+                    "highqlid": 218861
+                },
+                {
+                    "name": "Faithful Trader Sleeves",
+                    "lowqlid": 218862,
+                    "highqlid": 218863,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Trader Gloves",
+                    "lowqlid": 218864,
+                    "highqlid": 218865
+                },
+                {
+                    "name": "Faithful Trader Helmet",
+                    "lowqlid": 218866,
+                    "highqlid": 218867
+                },
+                {
+                    "name": "Faithful Trader Shoulderpad",
+                    "lowqlid": 218868,
+                    "highqlid": 218869,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Trader Survival Gear",
+                    "lowqlid": 218870,
+                    "highqlid": 218871
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "GJB5",
+            "name": "Faithful Bureaucrat Armor Set",
+            "category": "Tier Armor",
+            "profession": "Bureaucrat",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Bureaucrat Pants",
+                    "lowqlid": 218945,
+                    "highqlid": 218946
+                },
+                {
+                    "name": "Faithful Bureaucrat Boots",
+                    "lowqlid": 218947,
+                    "highqlid": 218948
+                },
+                {
+                    "name": "Faithful Bureaucrat Vest",
+                    "lowqlid": 218949,
+                    "highqlid": 218950
+                },
+                {
+                    "name": "Faithful Bureaucrat Sleeves",
+                    "lowqlid": 218959,
+                    "highqlid": 218960,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Bureaucrat Gloves",
+                    "lowqlid": 218963,
+                    "highqlid": 218964
+                },
+                {
+                    "name": "Faithful Bureaucrat Headgear",
+                    "lowqlid": 218965,
+                    "highqlid": 218966
+                },
+                {
+                    "name": "Faithful Bureaucrat Shoulderpad",
+                    "lowqlid": 218967,
+                    "highqlid": 218968,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Bureaucrat Cloak",
+                    "lowqlid": 218969,
+                    "highqlid": 218970
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "TZNS",
+            "name": "Faithful Enforcer Armor Set",
+            "category": "Tier Armor",
+            "profession": "Enforcer",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Enforcer Pants",
+                    "lowqlid": 220237,
+                    "highqlid": 220238
+                },
+                {
+                    "name": "Faithful Enforcer Boots",
+                    "lowqlid": 220239,
+                    "highqlid": 220240
+                },
+                {
+                    "name": "Faithful Enforcer Breastplate",
+                    "lowqlid": 220243,
+                    "highqlid": 220244
+                },
+                {
+                    "name": "Faithful Enforcer Sleeves",
+                    "lowqlid": 220247,
+                    "highqlid": 220248,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Enforcer Gauntlets",
+                    "lowqlid": 220251,
+                    "highqlid": 220252
+                },
+                {
+                    "name": "Faithful Enforcer Helmet",
+                    "lowqlid": 220255,
+                    "highqlid": 220256
+                },
+                {
+                    "name": "Faithful Enforcer Shoulderplate",
+                    "lowqlid": 220259,
+                    "highqlid": 220260,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Enforcer Mantle",
+                    "lowqlid": 220263,
+                    "highqlid": 220264
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "3I0B",
+            "name": "Faithful Doctor Armor Set",
+            "category": "Tier Armor",
+            "profession": "Doctor",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Doctor Life Support",
+                    "lowqlid": 217710,
+                    "highqlid": 217711
+                },
+                {
+                    "name": "Faithful Doctor Shoulderpad",
+                    "lowqlid": 217712,
+                    "highqlid": 217713,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Doctor Helmet",
+                    "lowqlid": 217714,
+                    "highqlid": 217715
+                },
+                {
+                    "name": "Faithful Doctor Gloves",
+                    "lowqlid": 217716,
+                    "highqlid": 217717
+                },
+                {
+                    "name": "Faithful Doctor Sleeves",
+                    "lowqlid": 217718,
+                    "highqlid": 217719,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Doctor Body",
+                    "lowqlid": 217720,
+                    "highqlid": 217721
+                },
+                {
+                    "name": "Faithful Doctor Boots",
+                    "lowqlid": 217722,
+                    "highqlid": 217723
+                },
+                {
+                    "name": "Faithful Doctor Pants",
+                    "lowqlid": 217724,
+                    "highqlid": 217725
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "0COF",
+            "name": "Faithful Nano-Technician Armor Set",
+            "category": "Tier Armor",
+            "profession": "Nano-Technician",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Nano Technician Cloak",
+                    "lowqlid": 222746,
+                    "highqlid": 222747
+                },
+                {
+                    "name": "Faithful Nano Technician Shoulderpad",
+                    "lowqlid": 222748,
+                    "highqlid": 222749,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Nano Technician Helmet",
+                    "lowqlid": 222750,
+                    "highqlid": 222751
+                },
+                {
+                    "name": "Faithful Nano Technician Gloves",
+                    "lowqlid": 222754,
+                    "highqlid": 222755
+                },
+                {
+                    "name": "Faithful Nano Technician Sleeves",
+                    "lowqlid": 222758,
+                    "highqlid": 222759,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Nano Technician Body Armor",
+                    "lowqlid": 222762,
+                    "highqlid": 222763
+                },
+                {
+                    "name": "Faithful Nano Technician Boots",
+                    "lowqlid": 222766,
+                    "highqlid": 222767
+                },
+                {
+                    "name": "Faithful Nano Technician Pants",
+                    "lowqlid": 222770,
+                    "highqlid": 222771
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "0HWP",
+            "name": "Faithful Meta-Physicist Armor Set",
+            "category": "Tier Armor",
+            "profession": "Meta-Physicist",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Metaphysicist Pants",
+                    "lowqlid": 221451,
+                    "highqlid": 221453
+                },
+                {
+                    "name": "Faithful Metaphysicist Boots",
+                    "lowqlid": 221456,
+                    "highqlid": 221457
+                },
+                {
+                    "name": "Faithful Metaphysicist Body Armor",
+                    "lowqlid": 221462,
+                    "highqlid": 221463
+                },
+                {
+                    "name": "Faithful Metaphysicist Sleeves",
+                    "lowqlid": 221467,
+                    "highqlid": 221469,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Metaphysicist Gloves",
+                    "lowqlid": 221471,
+                    "highqlid": 221472
+                },
+                {
+                    "name": "Faithful Metaphysicist Headgear",
+                    "lowqlid": 221477,
+                    "highqlid": 221478
+                },
+                {
+                    "name": "Faithful Metaphysicist Shoulder Cover",
+                    "lowqlid": 221483,
+                    "highqlid": 221484,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Metaphysicist Wings",
+                    "lowqlid": 221486,
+                    "highqlid": 221487
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "PU6W",
+            "name": "Faithful Keeper Armor Set",
+            "category": "Tier Armor",
+            "profession": "Keeper",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Keeper Support System",
+                    "lowqlid": 216659,
+                    "highqlid": 216660
+                },
+                {
+                    "name": "Faithful Keeper Pauldron",
+                    "lowqlid": 216661,
+                    "highqlid": 216662,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Keeper Barbute",
+                    "lowqlid": 216663,
+                    "highqlid": 216664
+                },
+                {
+                    "name": "Faithful Keeper Gauntlets",
+                    "lowqlid": 216665,
+                    "highqlid": 216666
+                },
+                {
+                    "name": "Faithful Keeper Vambrace",
+                    "lowqlid": 216667,
+                    "highqlid": 216668,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Keeper Cuirass",
+                    "lowqlid": 216669,
+                    "highqlid": 216670
+                },
+                {
+                    "name": "Faithful Keeper Sabatons",
+                    "lowqlid": 216671,
+                    "highqlid": 216672
+                },
+                {
+                    "name": "Faithful Keeper Greaves",
+                    "lowqlid": 216673,
+                    "highqlid": 216674
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "V2FG",
+            "name": "Faithful Shade Armor Set",
+            "category": "Tier Armor",
+            "profession": "Shade",
+            "faction": "Clan",
+            "available": true,
+            "items": [
+                {
+                    "name": "Faithful Shade Support System",
+                    "lowqlid": 216675,
+                    "highqlid": 216676
+                },
+                {
+                    "name": "Faithful Shade Shoulder Tattoos",
+                    "lowqlid": 216677,
+                    "highqlid": 216678,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Shade Headgear",
+                    "lowqlid": 216679,
+                    "highqlid": 216680
+                },
+                {
+                    "name": "Faithful Shade Hand Wraps",
+                    "lowqlid": 216681,
+                    "highqlid": 216682
+                },
+                {
+                    "name": "Faithful Shade Arm Tattoos",
+                    "lowqlid": 216683,
+                    "highqlid": 216684,
+                    "quantity": 2
+                },
+                {
+                    "name": "Faithful Shade Body Wraps",
+                    "lowqlid": 216685,
+                    "highqlid": 216686
+                },
+                {
+                    "name": "Faithful Shade Foot Covers",
+                    "lowqlid": 216687,
+                    "highqlid": 216688
+                },
+                {
+                    "name": "Faithful Shade Leg Covers",
+                    "lowqlid": 216689,
+                    "highqlid": 216690
+                }
+            ],
+            "tier": 3
+        },
+        {
+            "hash": "OTDW",
+            "name": "First Tier Soldier Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Soldier",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Soldier Jobe Gloves",
+                    "lowqlid": 217029,
+                    "highqlid": 217030
+                },
+                {
+                    "name": "First Tier Soldier Jobe Sleeves",
+                    "lowqlid": 217031,
+                    "highqlid": 217032,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Soldier Jobe Body Armor",
+                    "lowqlid": 217033,
+                    "highqlid": 217034
+                },
+                {
+                    "name": "First Tier Soldier Jobe Boots",
+                    "lowqlid": 217035,
+                    "highqlid": 217036
+                },
+                {
+                    "name": "First Tier Soldier Jobe Pants",
+                    "lowqlid": 217037,
+                    "highqlid": 217038
+                }
+            ]
+        },
+        {
+            "hash": "8RMV",
+            "name": "First Tier Martial Artist Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Martial Artist",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Martial Artist Gloves",
+                    "lowqlid": 217682,
+                    "highqlid": 217683
+                },
+                {
+                    "name": "First Tier Martial Artist Sleeves",
+                    "lowqlid": 217684,
+                    "highqlid": 217685,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Martial Artist Body Armor",
+                    "lowqlid": 217686,
+                    "highqlid": 217687
+                },
+                {
+                    "name": "First Tier Martial Artist Boots",
+                    "lowqlid": 217688,
+                    "highqlid": 217689
+                },
+                {
+                    "name": "First Tier Martial Artist Pants",
+                    "lowqlid": 217690,
+                    "highqlid": 217691
+                }
+            ]
+        },
+        {
+            "hash": "CCP8",
+            "name": "First Tier Engineer Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Engineer",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Engineer Gloves",
+                    "lowqlid": 218250,
+                    "highqlid": 218251
+                },
+                {
+                    "name": "First Tier Engineer Sleeves",
+                    "lowqlid": 218252,
+                    "highqlid": 218253,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Engineer Body",
+                    "lowqlid": 218254,
+                    "highqlid": 218255
+                },
+                {
+                    "name": "First Tier Engineer Boots",
+                    "lowqlid": 218256,
+                    "highqlid": 218257
+                },
+                {
+                    "name": "First Tier Engineer Pants",
+                    "lowqlid": 218258,
+                    "highqlid": 218259
+                }
+            ]
+        },
+        {
+            "hash": "YZOE",
+            "name": "First Tier Fixer Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Fixer",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Fixer Pants",
+                    "lowqlid": 218453,
+                    "highqlid": 218454
+                },
+                {
+                    "name": "First Tier Fixer Boots",
+                    "lowqlid": 218455,
+                    "highqlid": 218456
+                },
+                {
+                    "name": "First Tier Fixer Body Armor",
+                    "lowqlid": 218457,
+                    "highqlid": 218458
+                },
+                {
+                    "name": "First Tier Fixer Sleeves",
+                    "lowqlid": 218459,
+                    "highqlid": 218460,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Fixer Gloves",
+                    "lowqlid": 218461,
+                    "highqlid": 218462
+                }
+            ]
+        },
+        {
+            "hash": "A7XU",
+            "name": "First Tier Agent Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Agent",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Agent Gloves",
+                    "lowqlid": 218566,
+                    "highqlid": 218567
+                },
+                {
+                    "name": "First Tier Agent Sleeves",
+                    "lowqlid": 218568,
+                    "highqlid": 218569,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Agent Body Armor",
+                    "lowqlid": 218570,
+                    "highqlid": 218571
+                },
+                {
+                    "name": "First Tier Agent Boots",
+                    "lowqlid": 218572,
+                    "highqlid": 218573
+                },
+                {
+                    "name": "First Tier Agent Pants",
+                    "lowqlid": 218574,
+                    "highqlid": 218575
+                }
+            ]
+        },
+        {
+            "hash": "GPZQ",
+            "name": "First Tier Adventurer Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Adventurer",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Adventurer Jobe Suit Gloves",
+                    "lowqlid": 213441,
+                    "highqlid": 213442
+                },
+                {
+                    "name": "First Tier Adventurer Jobe Suit Sleeves",
+                    "lowqlid": 213443,
+                    "highqlid": 213444,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Adventurer Jobe Suit Body",
+                    "lowqlid": 213445,
+                    "highqlid": 213446
+                },
+                {
+                    "name": "First Tier Adventurer Jobe Suit Pants",
+                    "lowqlid": 213449,
+                    "highqlid": 213450
+                },
+                {
+                    "name": "First Tier Adventurer Boots",
+                    "lowqlid": 213447,
+                    "highqlid": 213448
+                }
+            ]
+        },
+        {
+            "hash": "QCKC",
+            "name": "First Tier Trader Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Trader",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Trader Pants",
+                    "lowqlid": 218923,
+                    "highqlid": 218924
+                },
+                {
+                    "name": "First Tier Trader Sleeves",
+                    "lowqlid": 218925,
+                    "highqlid": 218926,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Trader Body Armor",
+                    "lowqlid": 218929,
+                    "highqlid": 218930
+                },
+                {
+                    "name": "First Tier Trader Boots",
+                    "lowqlid": 218931,
+                    "highqlid": 218932
+                },
+                {
+                    "name": "First Tier Trader Gloves",
+                    "lowqlid": 218933,
+                    "highqlid": 218934
+                }
+            ]
+        },
+        {
+            "hash": "TSNV",
+            "name": "First Tier Bureaucrat Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Bureaucrat",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Bureaucrat Gloves",
+                    "lowqlid": 219086,
+                    "highqlid": 219087
+                },
+                {
+                    "name": "First Tier Bureaucrat Sleeves",
+                    "lowqlid": 219088,
+                    "highqlid": 219089,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Bureaucrat Vest",
+                    "lowqlid": 219092,
+                    "highqlid": 219093
+                },
+                {
+                    "name": "First Tier Bureaucrat Pants",
+                    "lowqlid": 219096,
+                    "highqlid": 219097
+                },
+                {
+                    "name": "First Tier Bureaucrat Boots",
+                    "lowqlid": 219100,
+                    "highqlid": 219101
+                }
+            ]
+        },
+        {
+            "hash": "BYPH",
+            "name": "First Tier Enforcer Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Enforcer",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Enforcer Pants",
+                    "lowqlid": 222931,
+                    "highqlid": 222932
+                },
+                {
+                    "name": "First Tier Enforcer Boots",
+                    "lowqlid": 222933,
+                    "highqlid": 222934
+                },
+                {
+                    "name": "First Tier Enforcer Breastplate",
+                    "lowqlid": 222935,
+                    "highqlid": 222936
+                },
+                {
+                    "name": "First Tier Enforcer Sleeves",
+                    "lowqlid": 222939,
+                    "highqlid": 222940,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Enforcer Gauntlets",
+                    "lowqlid": 222941,
+                    "highqlid": 222942
+                }
+            ]
+        },
+        {
+            "hash": "4BCZ",
+            "name": "First Tier Doctor Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Doctor",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Doctor Suit Gloves",
+                    "lowqlid": 217698,
+                    "highqlid": 217699
+                },
+                {
+                    "name": "First Tier Doctor Suit Sleeves",
+                    "lowqlid": 217700,
+                    "highqlid": 217701,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Doctor Suit Body",
+                    "lowqlid": 217702,
+                    "highqlid": 217703
+                },
+                {
+                    "name": "First Tier Doctor Suit Boots",
+                    "lowqlid": 217704,
+                    "highqlid": 217705
+                },
+                {
+                    "name": "First Tier Doctor Suit Pants",
+                    "lowqlid": 217706,
+                    "highqlid": 217707
+                }
+            ]
+        },
+        {
+            "hash": "IX4L",
+            "name": "First Tier Nano-Technician Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Nano-Technician",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Nano Technician Pants",
+                    "lowqlid": 222865,
+                    "highqlid": 222866
+                },
+                {
+                    "name": "First Tier Nano Technician Boots",
+                    "lowqlid": 222867,
+                    "highqlid": 222868
+                },
+                {
+                    "name": "First Tier Nano Technician Body Armor",
+                    "lowqlid": 222871,
+                    "highqlid": 222872
+                },
+                {
+                    "name": "First Tier Nano Technician Sleeves",
+                    "lowqlid": 222875,
+                    "highqlid": 222876,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Nano Technician Gloves",
+                    "lowqlid": 222879,
+                    "highqlid": 222880
+                }
+            ]
+        },
+        {
+            "hash": "5D14",
+            "name": "First Tier Meta-Physicist Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Meta-Physicist",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Metaphysicist Gloves",
+                    "lowqlid": 222651,
+                    "highqlid": 222652
+                },
+                {
+                    "name": "First Tier Metaphysicist Sleeves",
+                    "lowqlid": 222653,
+                    "highqlid": 222654,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Metaphysicist Body Armor",
+                    "lowqlid": 222655,
+                    "highqlid": 222656
+                },
+                {
+                    "name": "First Tier Metaphysicist Boots",
+                    "lowqlid": 222657,
+                    "highqlid": 222658
+                },
+                {
+                    "name": "First Tier Metaphysicist Pants",
+                    "lowqlid": 222659,
+                    "highqlid": 222660
+                }
+            ]
+        },
+        {
+            "hash": "LKRF",
+            "name": "First Tier Keeper Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Keeper",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Keeper Greaves",
+                    "lowqlid": 218050,
+                    "highqlid": 218051
+                },
+                {
+                    "name": "First Tier Keeper Sabatons",
+                    "lowqlid": 218052,
+                    "highqlid": 218053
+                },
+                {
+                    "name": "First Tier Keeper Cuirass",
+                    "lowqlid": 218054,
+                    "highqlid": 218055
+                },
+                {
+                    "name": "First Tier Keeper Vambrace",
+                    "lowqlid": 218056,
+                    "highqlid": 218057,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Keeper Gauntlets",
+                    "lowqlid": 218058,
+                    "highqlid": 218059
+                }
+            ]
+        },
+        {
+            "hash": "KCBV",
+            "name": "First Tier Shade Armor Set",
+            "category": "Tier Armor",
+            "tier": 1,
+            "profession": "Shade",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "First Tier Shade Leg Covers",
+                    "lowqlid": 222921,
+                    "highqlid": 222922
+                },
+                {
+                    "name": "First Tier Shade Foot Covers",
+                    "lowqlid": 222923,
+                    "highqlid": 222924
+                },
+                {
+                    "name": "First Tier Shade Body Wraps",
+                    "lowqlid": 222925,
+                    "highqlid": 222926
+                },
+                {
+                    "name": "First Tier Shade Arm Tattoos",
+                    "lowqlid": 222927,
+                    "highqlid": 222928,
+                    "quantity": 2
+                },
+                {
+                    "name": "First Tier Shade Hand Wraps",
+                    "lowqlid": 222929,
+                    "highqlid": 222930
+                }
+            ]
+        },
+        {
+            "hash": "6227",
+            "name": "Second Tier Soldier Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Soldier",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Soldier Jobe Pants",
+                    "lowqlid": 216992,
+                    "highqlid": 216993
+                },
+                {
+                    "name": "Second Tier Soldier Jobe Boots",
+                    "lowqlid": 216994,
+                    "highqlid": 216995
+                },
+                {
+                    "name": "Second Tier Soldier Jobe Body Armor",
+                    "lowqlid": 216996,
+                    "highqlid": 216997
+                },
+                {
+                    "name": "Second Tier Soldier Jobe Sleeves",
+                    "lowqlid": 216998,
+                    "highqlid": 216999,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Soldier Jobe Gloves",
+                    "lowqlid": 217000,
+                    "highqlid": 217001
+                },
+                {
+                    "name": "Second Tier Soldier Jobe Helmet",
+                    "lowqlid": 217002,
+                    "highqlid": 217003
+                },
+                {
+                    "name": "Second Tier Soldier Jobe Cuirass",
+                    "lowqlid": 217004,
+                    "highqlid": 217005
+                }
+            ]
+        },
+        {
+            "hash": "3WBD",
+            "name": "Second Tier Martial Artist Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Martial Artist",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Martial Artist Pants",
+                    "lowqlid": 217653,
+                    "highqlid": 217654
+                },
+                {
+                    "name": "Second Tier Martial Artist Boots",
+                    "lowqlid": 217655,
+                    "highqlid": 217656
+                },
+                {
+                    "name": "Second Tier Martial Artist Body Armor",
+                    "lowqlid": 217657,
+                    "highqlid": 217658
+                },
+                {
+                    "name": "Second Tier Martial Artist Sleeves",
+                    "lowqlid": 217659,
+                    "highqlid": 217660,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Martial Artist Gloves",
+                    "lowqlid": 217661,
+                    "highqlid": 217662
+                },
+                {
+                    "name": "Second Tier Martial Artist Helmet",
+                    "lowqlid": 217663,
+                    "highqlid": 217664
+                },
+                {
+                    "name": "Second Tier Martial Artist Cuirass",
+                    "lowqlid": 217665,
+                    "highqlid": 217666
+                }
+            ]
+        },
+        {
+            "hash": "FF7V",
+            "name": "Second Tier Engineer Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Engineer",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Engineer Shoulderpad",
+                    "lowqlid": 218236,
+                    "highqlid": 218237,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Engineer Helmet",
+                    "lowqlid": 218238,
+                    "highqlid": 218239
+                },
+                {
+                    "name": "Second Tier Engineer Gloves",
+                    "lowqlid": 218240,
+                    "highqlid": 218241
+                },
+                {
+                    "name": "Second Tier Engineer Sleeves",
+                    "lowqlid": 218242,
+                    "highqlid": 218243,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Engineer Body",
+                    "lowqlid": 218244,
+                    "highqlid": 218245
+                },
+                {
+                    "name": "Second Tier Engineer Boots",
+                    "lowqlid": 218246,
+                    "highqlid": 218247
+                },
+                {
+                    "name": "Second Tier Engineer Pants",
+                    "lowqlid": 218248,
+                    "highqlid": 218249
+                }
+            ]
+        },
+        {
+            "hash": "GX9P",
+            "name": "Second Tier Fixer Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Fixer",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Fixer Shoulderpad",
+                    "lowqlid": 218427,
+                    "highqlid": 218428,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Fixer Helmet",
+                    "lowqlid": 218429,
+                    "highqlid": 218430
+                },
+                {
+                    "name": "Second Tier Fixer Gloves",
+                    "lowqlid": 218431,
+                    "highqlid": 218432
+                },
+                {
+                    "name": "Second Tier Fixer Sleeves",
+                    "lowqlid": 218433,
+                    "highqlid": 218434,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Fixer Body Armor",
+                    "lowqlid": 218435,
+                    "highqlid": 218436
+                },
+                {
+                    "name": "Second Tier Fixer Boots",
+                    "lowqlid": 218437,
+                    "highqlid": 218438
+                },
+                {
+                    "name": "Second Tier Fixer Pants",
+                    "lowqlid": 218439,
+                    "highqlid": 218440
+                }
+            ]
+        },
+        {
+            "hash": "SY0D",
+            "name": "Second Tier Agent Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Agent",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Agent Pants",
+                    "lowqlid": 218551,
+                    "highqlid": 218552
+                },
+                {
+                    "name": "Second Tier Agent Boots",
+                    "lowqlid": 218553,
+                    "highqlid": 218554
+                },
+                {
+                    "name": "Second Tier Agent Body Armor",
+                    "lowqlid": 218555,
+                    "highqlid": 218556
+                },
+                {
+                    "name": "Second Tier Agent Sleeves",
+                    "lowqlid": 218557,
+                    "highqlid": 218558,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Agent Gloves",
+                    "lowqlid": 218559,
+                    "highqlid": 218560
+                },
+                {
+                    "name": "Second Tier Agent Helmet",
+                    "lowqlid": 218562,
+                    "highqlid": 218563
+                },
+                {
+                    "name": "Second Tier Agent Shoulderpad",
+                    "lowqlid": 218564,
+                    "highqlid": 218565,
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "hash": "F1H0",
+            "name": "Second Tier Adventurer Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Adventurer",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Adventurer Pants",
+                    "lowqlid": 218689,
+                    "highqlid": 218690
+                },
+                {
+                    "name": "Second Tier Adventurer Boots",
+                    "lowqlid": 218691,
+                    "highqlid": 218692
+                },
+                {
+                    "name": "Second Tier Adventurer Body Armor",
+                    "lowqlid": 218693,
+                    "highqlid": 218694
+                },
+                {
+                    "name": "Second Tier Adventurer Sleeves",
+                    "lowqlid": 218696,
+                    "highqlid": 218697,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Adventurer Gloves",
+                    "lowqlid": 218698,
+                    "highqlid": 218699
+                },
+                {
+                    "name": "Second Tier Adventurer Helmet",
+                    "lowqlid": 218717,
+                    "highqlid": 218718
+                },
+                {
+                    "name": "Second Tier Adventurer Support System",
+                    "lowqlid": 218726,
+                    "highqlid": 218727
+                }
+            ]
+        },
+        {
+            "hash": "DKZA",
+            "name": "Second Tier Trader Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Trader",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Trader Pants",
+                    "lowqlid": 218909,
+                    "highqlid": 218910
+                },
+                {
+                    "name": "Second Tier Trader Boots",
+                    "lowqlid": 218911,
+                    "highqlid": 218912
+                },
+                {
+                    "name": "Second Tier Trader Body Armor",
+                    "lowqlid": 218913,
+                    "highqlid": 218914
+                },
+                {
+                    "name": "Second Tier Trader Sleeves",
+                    "lowqlid": 218915,
+                    "highqlid": 218916,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Trader Gloves",
+                    "lowqlid": 218917,
+                    "highqlid": 218918
+                },
+                {
+                    "name": "Second Tier Trader Helmet",
+                    "lowqlid": 218919,
+                    "highqlid": 218920
+                },
+                {
+                    "name": "Second Tier Trader Shoulderpad",
+                    "lowqlid": 218921,
+                    "highqlid": 218922,
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "hash": "LN1H",
+            "name": "Second Tier Bureaucrat Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Bureaucrat",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Bureaucrat Shoulderpad",
+                    "lowqlid": 219055,
+                    "highqlid": 219056,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Bureaucrat Headgear",
+                    "lowqlid": 219057,
+                    "highqlid": 219058
+                },
+                {
+                    "name": "Second Tier Bureaucrat Gloves",
+                    "lowqlid": 219059,
+                    "highqlid": 219060
+                },
+                {
+                    "name": "Second Tier Bureaucrat Sleeves",
+                    "lowqlid": 219061,
+                    "highqlid": 219062,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Bureaucrat Vest",
+                    "lowqlid": 219065,
+                    "highqlid": 219066
+                },
+                {
+                    "name": "Second Tier Bureaucrat Boots",
+                    "lowqlid": 219067,
+                    "highqlid": 219068
+                },
+                {
+                    "name": "Second Tier Bureaucrat Pants",
+                    "lowqlid": 219069,
+                    "highqlid": 219070
+                }
+            ]
+        },
+        {
+            "hash": "CJDZ",
+            "name": "Second Tier Enforcer Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Enforcer",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Enforcer Pants",
+                    "lowqlid": 220303,
+                    "highqlid": 220304
+                },
+                {
+                    "name": "Second Tier Enforcer Boots",
+                    "lowqlid": 220305,
+                    "highqlid": 220306
+                },
+                {
+                    "name": "Second Tier Enforcer Breastplate",
+                    "lowqlid": 220307,
+                    "highqlid": 220308
+                },
+                {
+                    "name": "Second Tier Enforcer Sleeves",
+                    "lowqlid": 220310,
+                    "highqlid": 220311,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Enforcer Gauntlets",
+                    "lowqlid": 220313,
+                    "highqlid": 220314
+                },
+                {
+                    "name": "Second Tier Enforcer Helmet",
+                    "lowqlid": 220315,
+                    "highqlid": 220316
+                },
+                {
+                    "name": "Second Tier Enforcer Shoulderplate",
+                    "lowqlid": 220317,
+                    "highqlid": 220318,
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "hash": "3CMQ",
+            "name": "Second Tier Doctor Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Doctor",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Doctor Suit Pants",
+                    "lowqlid": 214755,
+                    "highqlid": 214756
+                },
+                {
+                    "name": "Second Tier Doctor Suit Boots",
+                    "lowqlid": 214757,
+                    "highqlid": 214758
+                },
+                {
+                    "name": "Second Tier Doctor Suit Body",
+                    "lowqlid": 214759,
+                    "highqlid": 214760
+                },
+                {
+                    "name": "Second Tier Doctor Suit Sleeves",
+                    "lowqlid": 214761,
+                    "highqlid": 214762,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Doctor Suit Gloves",
+                    "lowqlid": 214763,
+                    "highqlid": 214764
+                },
+                {
+                    "name": "Second Tier Doctor Suit Helmet",
+                    "lowqlid": 214765,
+                    "highqlid": 214766
+                },
+                {
+                    "name": "Second Tier Doctor Suit Shoulderpad",
+                    "lowqlid": 214767,
+                    "highqlid": 214768,
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "hash": "ZAMV",
+            "name": "Second Tier Nano-Technician Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Nano-Technician",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Nano Technician Shoulderpad",
+                    "lowqlid": 222774,
+                    "highqlid": 222775,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Nano Technician Helmet",
+                    "lowqlid": 222783,
+                    "highqlid": 222784
+                },
+                {
+                    "name": "Second Tier Nano Technician Gloves",
+                    "lowqlid": 222785,
+                    "highqlid": 222786
+                },
+                {
+                    "name": "Second Tier Nano Technician Sleeves",
+                    "lowqlid": 222789,
+                    "highqlid": 222790,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Nano Technician Body Armor",
+                    "lowqlid": 222793,
+                    "highqlid": 222794
+                },
+                {
+                    "name": "Second Tier Nano Technician Boots",
+                    "lowqlid": 222797,
+                    "highqlid": 222798
+                },
+                {
+                    "name": "Second Tier Nano Technician Pants",
+                    "lowqlid": 222801,
+                    "highqlid": 222802
+                }
+            ]
+        },
+        {
+            "hash": "8H34",
+            "name": "Second Tier Meta-Physicist Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Meta-Physicist",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Metaphysicist Shoulder Cover",
+                    "lowqlid": 222629,
+                    "highqlid": 222630,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Metaphysicist Headgear",
+                    "lowqlid": 222631,
+                    "highqlid": 222632
+                },
+                {
+                    "name": "Second Tier Metaphysicist Gloves",
+                    "lowqlid": 222633,
+                    "highqlid": 222634
+                },
+                {
+                    "name": "Second Tier Metaphysicist Sleeves",
+                    "lowqlid": 222637,
+                    "highqlid": 222638,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Metaphysicist Body Armor",
+                    "lowqlid": 222641,
+                    "highqlid": 222642
+                },
+                {
+                    "name": "Second Tier Metaphysicist Boots",
+                    "lowqlid": 222645,
+                    "highqlid": 222646
+                },
+                {
+                    "name": "Second Tier Metaphysicist Pants",
+                    "lowqlid": 222649,
+                    "highqlid": 222650
+                }
+            ]
+        },
+        {
+            "hash": "2S88",
+            "name": "Second Tier Keeper Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Keeper",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Keeper Pauldron",
+                    "lowqlid": 218036,
+                    "highqlid": 218037,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Keeper Barbute",
+                    "lowqlid": 218038,
+                    "highqlid": 218039
+                },
+                {
+                    "name": "Second Tier Keeper Gauntlets",
+                    "lowqlid": 218040,
+                    "highqlid": 218041
+                },
+                {
+                    "name": "Second Tier Keeper Vambrace",
+                    "lowqlid": 218042,
+                    "highqlid": 218043,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Keeper Cuirass",
+                    "lowqlid": 218044,
+                    "highqlid": 218045
+                },
+                {
+                    "name": "Second Tier Keeper Sabatons",
+                    "lowqlid": 218046,
+                    "highqlid": 218047
+                },
+                {
+                    "name": "Second Tier Keeper Greaves",
+                    "lowqlid": 218048,
+                    "highqlid": 218049
+                }
+            ]
+        },
+        {
+            "hash": "WMCM",
+            "name": "Second Tier Shade Armor Set",
+            "category": "Tier Armor",
+            "tier": 2,
+            "profession": "Shade",
+            "faction": "Any",
+            "available": true,
+            "items": [
+                {
+                    "name": "Second Tier Shade Leg Covers",
+                    "lowqlid": 222897,
+                    "highqlid": 222898
+                },
+                {
+                    "name": "Second Tier Shade Foot Covers",
+                    "lowqlid": 222899,
+                    "highqlid": 222900
+                },
+                {
+                    "name": "Second Tier Shade Body Wraps",
+                    "lowqlid": 222901,
+                    "highqlid": 222902
+                },
+                {
+                    "name": "Second Tier Shade Arm Tattoos",
+                    "lowqlid": 222903,
+                    "highqlid": 222904,
+                    "quantity": 2
+                },
+                {
+                    "name": "Second Tier Shade Hand Wraps",
+                    "lowqlid": 222907,
+                    "highqlid": 222908
+                },
+                {
+                    "name": "Second Tier Shade Headgear",
+                    "lowqlid": 222911,
+                    "highqlid": 222912
+                },
+                {
+                    "name": "Second Tier Shade Shoulder Tattoos",
+                    "lowqlid": 222913,
+                    "highqlid": 222914,
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "hash": "TSBU",
+            "name": "TESTLIVEITEM: Testlive Token",
+            "category": "Test Item",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTLIVEITEM: Testlive Token",
+                    "lowqlid": 285141,
+                    "highqlid": 285141
+                }
+            ]
+        }
+    ]
+}
