@@ -9,7 +9,9 @@
                 {
                     "name": "The Key to the Garden of Aban",
                     "lowqlid": 226824,
-                    "highqlid": 226824
+                    "lowql": 1,
+                    "highqlid": 226824,
+                    "highql": 1
                 }
             ]
         },
@@ -22,7 +24,9 @@
                 {
                     "name": "The Key to the Garden of Cama",
                     "lowqlid": 226985,
-                    "highqlid": 226985
+                    "lowql": 1,
+                    "highqlid": 226985,
+                    "highql": 1
                 }
             ]
         },
@@ -35,7 +39,9 @@
                 {
                     "name": "The Key to the Garden of Dalja",
                     "lowqlid": 226986,
-                    "highqlid": 226986
+                    "lowql": 1,
+                    "highqlid": 226986,
+                    "highql": 1
                 }
             ]
         },
@@ -48,7 +54,9 @@
                 {
                     "name": "The Key to the Garden of Enel",
                     "lowqlid": 226987,
-                    "highqlid": 226987
+                    "lowql": 1,
+                    "highqlid": 226987,
+                    "highql": 1
                 }
             ]
         },
@@ -61,7 +69,9 @@
                 {
                     "name": "The Key to the Garden of Lord Galahad",
                     "lowqlid": 226988,
-                    "highqlid": 226988
+                    "lowql": 1,
+                    "highqlid": 226988,
+                    "highql": 1
                 }
             ]
         },
@@ -74,7 +84,9 @@
                 {
                     "name": "The Key to the Garden of Gilthar",
                     "lowqlid": 226989,
-                    "highqlid": 226989
+                    "lowql": 1,
+                    "highqlid": 226989,
+                    "highql": 1
                 }
             ]
         },
@@ -87,7 +99,9 @@
                 {
                     "name": "The Key to the Garden of Lord Mordeth",
                     "lowqlid": 226990,
-                    "highqlid": 226990
+                    "lowql": 1,
+                    "highqlid": 226990,
+                    "highql": 1
                 }
             ]
         },
@@ -100,7 +114,9 @@
                 {
                     "name": "The Key to the Garden of Ocra",
                     "lowqlid": 226991,
-                    "highqlid": 226991
+                    "lowql": 1,
+                    "highqlid": 226991,
+                    "highql": 1
                 }
             ]
         },
@@ -113,7 +129,9 @@
                 {
                     "name": "The Key to the Garden of Roch",
                     "lowqlid": 226992,
-                    "highqlid": 226992
+                    "lowql": 1,
+                    "highqlid": 226992,
+                    "highql": 1
                 }
             ]
         },
@@ -126,7 +144,9 @@
                 {
                     "name": "The Key to the Garden of Shere",
                     "lowqlid": 226993,
-                    "highqlid": 226993
+                    "lowql": 1,
+                    "highqlid": 226993,
+                    "highql": 1
                 }
             ]
         },
@@ -139,7 +159,9 @@
                 {
                     "name": "The Key to the Garden of Thrak",
                     "lowqlid": 226994,
-                    "highqlid": 226994
+                    "lowql": 1,
+                    "highqlid": 226994,
+                    "highql": 1
                 }
             ]
         },
@@ -152,7 +174,9 @@
                 {
                     "name": "The Key to the Garden of Vanya",
                     "lowqlid": 226995,
-                    "highqlid": 226995
+                    "lowql": 1,
+                    "highqlid": 226995,
+                    "highql": 1
                 }
             ]
         },
@@ -165,7 +189,9 @@
                 {
                     "name": "TESTITEM: All Engineer NFs",
                     "lowqlid": 38516,
-                    "highqlid": 38516
+                    "lowql": 1,
+                    "highqlid": 38516,
+                    "highql": 1
                 }
             ]
         },
@@ -178,7 +204,9 @@
                 {
                     "name": "TESTITEM: All Adventurer NFs",
                     "lowqlid": 38523,
-                    "highqlid": 38523
+                    "lowql": 1,
+                    "highqlid": 38523,
+                    "highql": 1
                 }
             ]
         },
@@ -191,7 +219,9 @@
                 {
                     "name": "TESTITEM: All Agent NFs",
                     "lowqlid": 38512,
-                    "highqlid": 38512
+                    "lowql": 1,
+                    "highqlid": 38512,
+                    "highql": 1
                 }
             ]
         },
@@ -204,7 +234,9 @@
                 {
                     "name": "TESTITEM: All Bureaucrat NFs",
                     "lowqlid": 38513,
-                    "highqlid": 38513
+                    "lowql": 1,
+                    "highqlid": 38513,
+                    "highql": 1
                 }
             ]
         },
@@ -217,7 +249,9 @@
                 {
                     "name": "TESTITEM: All Doctor NFs",
                     "lowqlid": 38514,
-                    "highqlid": 38514
+                    "lowql": 1,
+                    "highqlid": 38514,
+                    "highql": 1
                 }
             ]
         },
@@ -230,7 +264,9 @@
                 {
                     "name": "TESTITEM: All Enforcer NFs",
                     "lowqlid": 38515,
-                    "highqlid": 38515
+                    "lowql": 1,
+                    "highqlid": 38515,
+                    "highql": 1
                 }
             ]
         },
@@ -243,7 +279,9 @@
                 {
                     "name": "TESTITEM: All Fixer NFs",
                     "lowqlid": 38517,
-                    "highqlid": 38517
+                    "lowql": 1,
+                    "highqlid": 38517,
+                    "highql": 1
                 }
             ]
         },
@@ -256,7 +294,9 @@
                 {
                     "name": "TESTITEM: All General NFs",
                     "lowqlid": 38481,
-                    "highqlid": 38481
+                    "lowql": 1,
+                    "highqlid": 38481,
+                    "highql": 1
                 }
             ]
         },
@@ -269,7 +309,9 @@
                 {
                     "name": "TESTITEM: All Martial Artist NFs",
                     "lowqlid": 38518,
-                    "highqlid": 38518
+                    "lowql": 1,
+                    "highqlid": 38518,
+                    "highql": 1
                 }
             ]
         },
@@ -282,7 +324,9 @@
                 {
                     "name": "TESTITEM: All Meta-Physicist NFs",
                     "lowqlid": 38519,
-                    "highqlid": 38519
+                    "lowql": 1,
+                    "highqlid": 38519,
+                    "highql": 1
                 }
             ]
         },
@@ -295,7 +339,9 @@
                 {
                     "name": "TESTITEM: All Nanotechnician NFs",
                     "lowqlid": 38520,
-                    "highqlid": 38520
+                    "lowql": 1,
+                    "highqlid": 38520,
+                    "highql": 1
                 }
             ]
         },
@@ -308,7 +354,9 @@
                 {
                     "name": "TESTITEM: All Soldier NFs",
                     "lowqlid": 38522,
-                    "highqlid": 38522
+                    "lowql": 1,
+                    "highqlid": 38522,
+                    "highql": 1
                 }
             ]
         },
@@ -321,7 +369,9 @@
                 {
                     "name": "TESTITEM: All Trader NFs",
                     "lowqlid": 38511,
-                    "highqlid": 38511
+                    "lowql": 1,
+                    "highqlid": 38511,
+                    "highql": 1
                 }
             ]
         },
@@ -334,7 +384,9 @@
                 {
                     "name": "TESTITEM: All Shade NFs",
                     "lowqlid": 216694,
-                    "highqlid": 216694
+                    "lowql": 1,
+                    "highqlid": 216694,
+                    "highql": 1
                 }
             ]
         },
@@ -347,7 +399,9 @@
                 {
                     "name": "TESTITEM: All Keeper NFs",
                     "lowqlid": 216695,
-                    "highqlid": 216695
+                    "lowql": 1,
+                    "highqlid": 216695,
+                    "highql": 1
                 }
             ]
         },
@@ -360,7 +414,9 @@
                 {
                     "name": "Asp of Titaniush",
                     "lowqlid": 275848,
-                    "highqlid": 275848
+                    "lowql": 215,
+                    "highqlid": 275848,
+                    "highql": 215
                 }
             ]
         },
@@ -373,7 +429,9 @@
                 {
                     "name": "Gold Acantophis",
                     "lowqlid": 154899,
-                    "highqlid": 154899
+                    "lowql": 187,
+                    "highqlid": 154899,
+                    "highql": 187
                 }
             ]
         },
@@ -386,7 +444,9 @@
                 {
                     "name": "Bitis Striker",
                     "lowqlid": 154901,
-                    "highqlid": 154901
+                    "lowql": 133,
+                    "highqlid": 154901,
+                    "highql": 133
                 }
             ]
         },
@@ -399,7 +459,9 @@
                 {
                     "name": "Coplan's Hand Taipan",
                     "lowqlid": 154900,
-                    "highqlid": 154900
+                    "lowql": 88,
+                    "highqlid": 154900,
+                    "highql": 88
                 }
             ]
         },
@@ -412,7 +474,9 @@
                 {
                     "name": "The Crotalus",
                     "lowqlid": 154898,
-                    "highqlid": 154898
+                    "lowql": 45,
+                    "highqlid": 154898,
+                    "highql": 45
                 }
             ]
         },
@@ -425,7 +489,9 @@
                 {
                     "name": "Azure Cobra of Orma",
                     "lowqlid": 154902,
-                    "highqlid": 154902
+                    "lowql": 198,
+                    "highqlid": 154902,
+                    "highql": 198
                 }
             ]
         },
@@ -438,7 +504,9 @@
                 {
                     "name": "Wixel's Notum Python",
                     "lowqlid": 154903,
-                    "highqlid": 154903
+                    "lowql": 157,
+                    "highqlid": 154903,
+                    "highql": 157
                 }
             ]
         },
@@ -451,7 +519,9 @@
                 {
                     "name": "Asp of Semol",
                     "lowqlid": 154896,
-                    "highqlid": 154896
+                    "lowql": 116,
+                    "highqlid": 154896,
+                    "highql": 116
                 }
             ]
         },
@@ -464,7 +534,9 @@
                 {
                     "name": "Viper Staff",
                     "lowqlid": 154897,
-                    "highqlid": 267760
+                    "lowql": 63,
+                    "highqlid": 267760,
+                    "highql": 300
                 }
             ]
         },
@@ -477,7 +549,9 @@
                 {
                     "name": "Shield of Esa",
                     "lowqlid": 275851,
-                    "highqlid": 275851
+                    "lowql": 215,
+                    "highqlid": 275851,
+                    "highql": 215
                 }
             ]
         },
@@ -490,7 +564,9 @@
                 {
                     "name": "Shield of Zset",
                     "lowqlid": 273377,
-                    "highqlid": 273377
+                    "lowql": 215,
+                    "highqlid": 273377,
+                    "highql": 215
                 }
             ]
         },
@@ -503,7 +579,9 @@
                 {
                     "name": "Shield of Zset",
                     "lowqlid": 305605,
-                    "highqlid": 305605
+                    "lowql": 215,
+                    "highqlid": 305605,
+                    "highql": 215
                 }
             ]
         },
@@ -516,7 +594,9 @@
                 {
                     "name": "Shield of Asmodian",
                     "lowqlid": 154929,
-                    "highqlid": 154929
+                    "lowql": 199,
+                    "highqlid": 154929,
+                    "highql": 199
                 }
             ]
         },
@@ -529,7 +609,9 @@
                 {
                     "name": "Mocham's Guard",
                     "lowqlid": 154927,
-                    "highqlid": 154927
+                    "lowql": 180,
+                    "highqlid": 154927,
+                    "highql": 180
                 }
             ]
         },
@@ -542,7 +624,9 @@
                 {
                     "name": "Death Ward",
                     "lowqlid": 154925,
-                    "highqlid": 154925
+                    "lowql": 171,
+                    "highqlid": 154925,
+                    "highql": 171
                 }
             ]
         },
@@ -555,7 +639,9 @@
                 {
                     "name": "Belthior's Flame Ward",
                     "lowqlid": 154932,
-                    "highqlid": 154932
+                    "lowql": 144,
+                    "highqlid": 154932,
+                    "highql": 144
                 }
             ]
         },
@@ -568,7 +654,9 @@
                 {
                     "name": "Wave Breaker",
                     "lowqlid": 154924,
-                    "highqlid": 154924
+                    "lowql": 125,
+                    "highqlid": 154924,
+                    "highql": 125
                 }
             ]
         },
@@ -581,7 +669,9 @@
                 {
                     "name": "Living Shield of Evernan",
                     "lowqlid": 154926,
-                    "highqlid": 154926
+                    "lowql": 109,
+                    "highqlid": 154926,
+                    "highql": 109
                 }
             ]
         },
@@ -594,7 +684,9 @@
                 {
                     "name": "Solar Guard",
                     "lowqlid": 154930,
-                    "highqlid": 154930
+                    "lowql": 82,
+                    "highqlid": 154930,
+                    "highql": 82
                 }
             ]
         },
@@ -607,7 +699,9 @@
                 {
                     "name": "Notum Defender",
                     "lowqlid": 154928,
-                    "highqlid": 154928
+                    "lowql": 68,
+                    "highqlid": 154928,
+                    "highql": 68
                 }
             ]
         },
@@ -620,7 +714,9 @@
                 {
                     "name": "Vital Buckler",
                     "lowqlid": 154931,
-                    "highqlid": 154931
+                    "lowql": 68,
+                    "highqlid": 154931,
+                    "highql": 68
                 }
             ]
         },
@@ -633,7 +729,9 @@
                 {
                     "name": "Shadowweb Spinner MK I",
                     "lowqlid": 224390,
-                    "highqlid": 224390
+                    "lowql": 1,
+                    "highqlid": 224390,
+                    "highql": 1
                 }
             ]
         },
@@ -646,7 +744,9 @@
                 {
                     "name": "Shadowweb Spinner MK II",
                     "lowqlid": 224392,
-                    "highqlid": 224392
+                    "lowql": 1,
+                    "highqlid": 224392,
+                    "highql": 1
                 }
             ]
         },
@@ -659,7 +759,9 @@
                 {
                     "name": "Shadowweb Spinner MK III",
                     "lowqlid": 224393,
-                    "highqlid": 224393
+                    "lowql": 1,
+                    "highqlid": 224393,
+                    "highql": 1
                 }
             ]
         },
@@ -672,7 +774,9 @@
                 {
                     "name": "Shadowweb Spinner MK IV",
                     "lowqlid": 224394,
-                    "highqlid": 224394
+                    "lowql": 1,
+                    "highqlid": 224394,
+                    "highql": 1
                 }
             ]
         },
@@ -685,7 +789,9 @@
                 {
                     "name": "Shadowweb Spinner MK V",
                     "lowqlid": 224395,
-                    "highqlid": 224395
+                    "lowql": 1,
+                    "highqlid": 224395,
+                    "highql": 1
                 }
             ]
         },
@@ -698,7 +804,9 @@
                 {
                     "name": "Shadowweb Spinner MK VI",
                     "lowqlid": 224396,
-                    "highqlid": 224396
+                    "lowql": 1,
+                    "highqlid": 224396,
+                    "highql": 1
                 }
             ]
         },
@@ -711,7 +819,9 @@
                 {
                     "name": "Shadowweb Spinner MK VII",
                     "lowqlid": 224397,
-                    "highqlid": 224397
+                    "lowql": 1,
+                    "highqlid": 224397,
+                    "highql": 1
                 }
             ]
         },
@@ -724,7 +834,9 @@
                 {
                     "name": "Shadowweb Spinner MK VIII",
                     "lowqlid": 224398,
-                    "highqlid": 224398
+                    "lowql": 1,
+                    "highqlid": 224398,
+                    "highql": 1
                 }
             ]
         },
@@ -737,7 +849,9 @@
                 {
                     "name": "Shadowweb Spinner MK IX",
                     "lowqlid": 224399,
-                    "highqlid": 224399
+                    "lowql": 1,
+                    "highqlid": 224399,
+                    "highql": 1
                 }
             ]
         },
@@ -750,7 +864,9 @@
                 {
                     "name": "Shadowweb Spinner MK X",
                     "lowqlid": 224400,
-                    "highqlid": 224400
+                    "lowql": 1,
+                    "highqlid": 224400,
+                    "highql": 1
                 }
             ]
         },
@@ -763,7 +879,9 @@
                 {
                     "name": "Shadowweb Spinner MK XI",
                     "lowqlid": 273350,
-                    "highqlid": 273350
+                    "lowql": 1,
+                    "highqlid": 273350,
+                    "highql": 1
                 }
             ]
         },
@@ -778,44 +896,60 @@
                 {
                     "name": "Chosen Soldier Cuirass",
                     "lowqlid": 216916,
-                    "highqlid": 216917
+                    "lowql": 220,
+                    "highqlid": 216917,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Soldier Shoulderplate",
                     "lowqlid": 216918,
+                    "lowql": 220,
                     "highqlid": 216919,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Soldier Helmet",
                     "lowqlid": 216920,
-                    "highqlid": 216921
+                    "lowql": 220,
+                    "highqlid": 216921,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Soldier Gloves",
                     "lowqlid": 216922,
-                    "highqlid": 216923
+                    "lowql": 220,
+                    "highqlid": 216923,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Soldier Sleeves",
                     "lowqlid": 216924,
+                    "lowql": 220,
                     "highqlid": 216925,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Soldier Body Armor",
                     "lowqlid": 216926,
-                    "highqlid": 216927
+                    "lowql": 220,
+                    "highqlid": 216927,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Soldier Boots",
                     "lowqlid": 216928,
-                    "highqlid": 216929
+                    "lowql": 220,
+                    "highqlid": 216929,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Soldier Pants",
                     "lowqlid": 216930,
-                    "highqlid": 216931
+                    "lowql": 220,
+                    "highqlid": 216931,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -831,44 +965,60 @@
                 {
                     "name": "Chosen Martial Artist Cuirass",
                     "lowqlid": 217635,
-                    "highqlid": 217636
+                    "lowql": 220,
+                    "highqlid": 217636,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Martial Artist Shoulderpads",
                     "lowqlid": 217637,
+                    "lowql": 220,
                     "highqlid": 217638,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Martial Artist Helmet",
                     "lowqlid": 217639,
-                    "highqlid": 217640
+                    "lowql": 220,
+                    "highqlid": 217640,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Martial Artist Gloves",
                     "lowqlid": 217641,
-                    "highqlid": 217642
+                    "lowql": 220,
+                    "highqlid": 217642,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Martial Artist Sleeves",
                     "lowqlid": 217643,
+                    "lowql": 220,
                     "highqlid": 217644,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Martial Artist Body Armor",
                     "lowqlid": 217645,
-                    "highqlid": 217646
+                    "lowql": 220,
+                    "highqlid": 217646,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Martial Artist Boots",
                     "lowqlid": 217647,
-                    "highqlid": 217648
+                    "lowql": 220,
+                    "highqlid": 217648,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Martial Artist Pants",
                     "lowqlid": 217649,
-                    "highqlid": 217650
+                    "lowql": 220,
+                    "highqlid": 217650,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -884,44 +1034,60 @@
                 {
                     "name": "Chosen Engineer Helper",
                     "lowqlid": 218172,
-                    "highqlid": 218173
+                    "lowql": 220,
+                    "highqlid": 218173,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Engineer Shoulderpad",
                     "lowqlid": 218174,
+                    "lowql": 220,
                     "highqlid": 218175,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Engineer Helmet",
                     "lowqlid": 218176,
-                    "highqlid": 218177
+                    "lowql": 220,
+                    "highqlid": 218177,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Engineer Gloves",
                     "lowqlid": 218178,
-                    "highqlid": 218179
+                    "lowql": 220,
+                    "highqlid": 218179,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Engineer Sleeves",
                     "lowqlid": 218180,
+                    "lowql": 220,
                     "highqlid": 218181,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Engineer Body",
                     "lowqlid": 218182,
-                    "highqlid": 218183
+                    "lowql": 220,
+                    "highqlid": 218183,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Engineer Boots",
                     "lowqlid": 218184,
-                    "highqlid": 218185
+                    "lowql": 220,
+                    "highqlid": 218185,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Engineer Pants",
                     "lowqlid": 218186,
-                    "highqlid": 218187
+                    "lowql": 220,
+                    "highqlid": 218187,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -937,44 +1103,60 @@
                 {
                     "name": "Chosen Fixer Pants",
                     "lowqlid": 218279,
-                    "highqlid": 218280
+                    "lowql": 220,
+                    "highqlid": 218280,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Fixer Boots",
                     "lowqlid": 218281,
-                    "highqlid": 218282
+                    "lowql": 220,
+                    "highqlid": 218282,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Fixer Body Armor",
                     "lowqlid": 218283,
-                    "highqlid": 218284
+                    "lowql": 220,
+                    "highqlid": 218284,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Fixer Sleeves",
                     "lowqlid": 218285,
+                    "lowql": 220,
                     "highqlid": 218286,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Fixer Gloves",
                     "lowqlid": 218287,
-                    "highqlid": 218288
+                    "lowql": 220,
+                    "highqlid": 218288,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Fixer Helmet",
                     "lowqlid": 218289,
-                    "highqlid": 218290
+                    "lowql": 220,
+                    "highqlid": 218290,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Fixer Shoulderpad",
                     "lowqlid": 218291,
+                    "lowql": 220,
                     "highqlid": 218292,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Fixer Manteau",
                     "lowqlid": 218293,
-                    "highqlid": 218294
+                    "lowql": 220,
+                    "highqlid": 218294,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -990,44 +1172,60 @@
                 {
                     "name": "Chosen Agent Manteau",
                     "lowqlid": 218535,
-                    "highqlid": 218536
+                    "lowql": 220,
+                    "highqlid": 218536,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Agent Shoulderpad",
                     "lowqlid": 218537,
+                    "lowql": 220,
                     "highqlid": 218538,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Agent Helmet",
                     "lowqlid": 218539,
-                    "highqlid": 218540
+                    "lowql": 220,
+                    "highqlid": 218540,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Agent Gloves",
                     "lowqlid": 218541,
-                    "highqlid": 218542
+                    "lowql": 220,
+                    "highqlid": 218542,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Agent Sleeves",
                     "lowqlid": 218543,
+                    "lowql": 220,
                     "highqlid": 218544,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Agent Body Armor",
                     "lowqlid": 218545,
-                    "highqlid": 218546
+                    "lowql": 220,
+                    "highqlid": 218546,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Agent Boots",
                     "lowqlid": 218547,
-                    "highqlid": 218548
+                    "lowql": 220,
+                    "highqlid": 218548,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Agent Pants",
                     "lowqlid": 218549,
-                    "highqlid": 218550
+                    "lowql": 220,
+                    "highqlid": 218550,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1043,44 +1241,60 @@
                 {
                     "name": "Chosen Adventurer Support System",
                     "lowqlid": 218577,
-                    "highqlid": 218578
+                    "lowql": 220,
+                    "highqlid": 218578,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Adventurer Shoulder Cover",
                     "lowqlid": 218579,
+                    "lowql": 220,
                     "highqlid": 218580,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Adventurer Helmet",
                     "lowqlid": 218581,
-                    "highqlid": 218582
+                    "lowql": 220,
+                    "highqlid": 218582,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Adventurer Gloves",
                     "lowqlid": 218583,
-                    "highqlid": 218584
+                    "lowql": 220,
+                    "highqlid": 218584,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Adventurer Sleeves",
                     "lowqlid": 218585,
+                    "lowql": 220,
                     "highqlid": 218586,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Adventurer Body Armor",
                     "lowqlid": 218587,
-                    "highqlid": 218588
+                    "lowql": 220,
+                    "highqlid": 218588,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Adventurer Boots",
                     "lowqlid": 218589,
-                    "highqlid": 218590
+                    "lowql": 220,
+                    "highqlid": 218590,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Adventurer Pants",
                     "lowqlid": 218591,
-                    "highqlid": 218592
+                    "lowql": 220,
+                    "highqlid": 218592,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1096,44 +1310,60 @@
                 {
                     "name": "Chosen Trader Survival Gear",
                     "lowqlid": 218881,
-                    "highqlid": 218882
+                    "lowql": 220,
+                    "highqlid": 218882,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Trader Shoulderpad",
                     "lowqlid": 218883,
+                    "lowql": 220,
                     "highqlid": 218884,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Trader Helmet",
                     "lowqlid": 218885,
-                    "highqlid": 218886
+                    "lowql": 220,
+                    "highqlid": 218886,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Trader Gloves",
                     "lowqlid": 218899,
-                    "highqlid": 218900
+                    "lowql": 220,
+                    "highqlid": 218900,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Trader Sleeves",
                     "lowqlid": 218901,
+                    "lowql": 220,
                     "highqlid": 218902,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Trader Body Armor",
                     "lowqlid": 218903,
-                    "highqlid": 218904
+                    "lowql": 220,
+                    "highqlid": 218904,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Trader Boots",
                     "lowqlid": 218905,
-                    "highqlid": 218906
+                    "lowql": 220,
+                    "highqlid": 218906,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Trader Pants",
                     "lowqlid": 218907,
-                    "highqlid": 218908
+                    "lowql": 220,
+                    "highqlid": 218908,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1149,44 +1379,60 @@
                 {
                     "name": "Chosen Bureaucrat Pants",
                     "lowqlid": 219023,
-                    "highqlid": 219024
+                    "lowql": 220,
+                    "highqlid": 219024,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Bureaucrat Boots",
                     "lowqlid": 219025,
-                    "highqlid": 219026
+                    "lowql": 220,
+                    "highqlid": 219026,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Bureaucrat Vest",
                     "lowqlid": 219029,
-                    "highqlid": 219030
+                    "lowql": 220,
+                    "highqlid": 219030,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Bureaucrat Sleeves",
                     "lowqlid": 219033,
+                    "lowql": 220,
                     "highqlid": 219034,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Bureaucrat Gloves",
                     "lowqlid": 219037,
-                    "highqlid": 219038
+                    "lowql": 220,
+                    "highqlid": 219038,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Bureaucrat Headgear",
                     "lowqlid": 219041,
-                    "highqlid": 219042
+                    "lowql": 220,
+                    "highqlid": 219042,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Bureaucrat Shoulderpad",
                     "lowqlid": 219045,
+                    "lowql": 220,
                     "highqlid": 219046,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Bureaucrat Cloak",
                     "lowqlid": 219049,
-                    "highqlid": 219050
+                    "lowql": 220,
+                    "highqlid": 219050,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1202,44 +1448,60 @@
                 {
                     "name": "Chosen Enforcer Mantle",
                     "lowqlid": 220269,
-                    "highqlid": 220270
+                    "lowql": 220,
+                    "highqlid": 220270,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Enforcer Shoulderplate",
                     "lowqlid": 220271,
+                    "lowql": 220,
                     "highqlid": 220272,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Enforcer Helmet",
                     "lowqlid": 220275,
-                    "highqlid": 220276
+                    "lowql": 220,
+                    "highqlid": 220276,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Enforcer Gauntlets",
                     "lowqlid": 220277,
-                    "highqlid": 220278
+                    "lowql": 220,
+                    "highqlid": 220278,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Enforcer Sleeves",
                     "lowqlid": 220279,
+                    "lowql": 220,
                     "highqlid": 220280,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Enforcer Breastplate",
                     "lowqlid": 220281,
-                    "highqlid": 220282
+                    "lowql": 220,
+                    "highqlid": 220282,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Enforcer Boots",
                     "lowqlid": 220283,
-                    "highqlid": 220284
+                    "lowql": 220,
+                    "highqlid": 220284,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Enforcer Pants",
                     "lowqlid": 220287,
-                    "highqlid": 220288
+                    "lowql": 220,
+                    "highqlid": 220288,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1255,44 +1517,60 @@
                 {
                     "name": "Chosen Doctor Boots",
                     "lowqlid": 214841,
-                    "highqlid": 214842
+                    "lowql": 220,
+                    "highqlid": 214842,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Doctor Body",
                     "lowqlid": 214843,
-                    "highqlid": 214844
+                    "lowql": 220,
+                    "highqlid": 214844,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Doctor Sleeves",
                     "lowqlid": 214845,
+                    "lowql": 220,
                     "highqlid": 214846,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Doctor Gloves",
                     "lowqlid": 214847,
-                    "highqlid": 214848
+                    "lowql": 220,
+                    "highqlid": 214848,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Doctor Helmet",
                     "lowqlid": 214849,
-                    "highqlid": 214850
+                    "lowql": 220,
+                    "highqlid": 214850,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Doctor Shoulderpad",
                     "lowqlid": 214851,
+                    "lowql": 220,
                     "highqlid": 214852,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Doctor Life Support",
                     "lowqlid": 214853,
-                    "highqlid": 214854
+                    "lowql": 220,
+                    "highqlid": 214854,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Doctor Pants",
                     "lowqlid": 214857,
-                    "highqlid": 214858
+                    "lowql": 220,
+                    "highqlid": 214858,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1308,44 +1586,60 @@
                 {
                     "name": "Chosen Nano Technician Boots",
                     "lowqlid": 214794,
-                    "highqlid": 214795
+                    "lowql": 220,
+                    "highqlid": 214795,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Nano Technician Body Armor",
                     "lowqlid": 214796,
-                    "highqlid": 214797
+                    "lowql": 220,
+                    "highqlid": 214797,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Nano Technician Sleeves",
                     "lowqlid": 214798,
+                    "lowql": 220,
                     "highqlid": 214799,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Nano Technician Gloves",
                     "lowqlid": 214800,
-                    "highqlid": 214801
+                    "lowql": 220,
+                    "highqlid": 214801,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Nano Technician Helmet",
                     "lowqlid": 214802,
-                    "highqlid": 214803
+                    "lowql": 220,
+                    "highqlid": 214803,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Nano Technician Shoulderpad",
                     "lowqlid": 214804,
+                    "lowql": 220,
                     "highqlid": 214805,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Nano Technician Cloak",
                     "lowqlid": 214806,
-                    "highqlid": 214807
+                    "lowql": 220,
+                    "highqlid": 214807,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Nano Technician Pants",
                     "lowqlid": 214888,
-                    "highqlid": 214889
+                    "lowql": 220,
+                    "highqlid": 214889,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1361,44 +1655,60 @@
                 {
                     "name": "Chosen Metaphysicist Pants",
                     "lowqlid": 222603,
-                    "highqlid": 222604
+                    "lowql": 220,
+                    "highqlid": 222604,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Metaphysicist Boots",
                     "lowqlid": 222605,
-                    "highqlid": 222606
+                    "lowql": 220,
+                    "highqlid": 222606,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Metaphysicist Body Armor",
                     "lowqlid": 222609,
-                    "highqlid": 222610
+                    "lowql": 220,
+                    "highqlid": 222610,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Metaphysicist Sleeves",
                     "lowqlid": 222611,
+                    "lowql": 220,
                     "highqlid": 222612,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Metaphysicist Gloves",
                     "lowqlid": 222613,
-                    "highqlid": 222614
+                    "lowql": 220,
+                    "highqlid": 222614,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Metaphysicist Headgear",
                     "lowqlid": 222617,
-                    "highqlid": 222618
+                    "lowql": 220,
+                    "highqlid": 222618,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Metaphysicist Shoulder Cover",
                     "lowqlid": 222621,
+                    "lowql": 220,
                     "highqlid": 222622,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Metaphysicist Wings",
                     "lowqlid": 222625,
-                    "highqlid": 222626
+                    "lowql": 220,
+                    "highqlid": 222626,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1414,44 +1724,60 @@
                 {
                     "name": "Chosen Keeper Support System",
                     "lowqlid": 218002,
-                    "highqlid": 218003
+                    "lowql": 220,
+                    "highqlid": 218003,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Keeper Pauldron",
                     "lowqlid": 218004,
+                    "lowql": 220,
                     "highqlid": 218005,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Keeper Barbute",
                     "lowqlid": 218006,
-                    "highqlid": 218007
+                    "lowql": 220,
+                    "highqlid": 218007,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Keeper Gauntlets",
                     "lowqlid": 218008,
-                    "highqlid": 218009
+                    "lowql": 220,
+                    "highqlid": 218009,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Keeper Vambrace",
                     "lowqlid": 218010,
+                    "lowql": 220,
                     "highqlid": 218011,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Keeper Cuirass",
                     "lowqlid": 218012,
-                    "highqlid": 218013
+                    "lowql": 220,
+                    "highqlid": 218013,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Keeper Sabatons",
                     "lowqlid": 218014,
-                    "highqlid": 218015
+                    "lowql": 220,
+                    "highqlid": 218015,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Keeper Greaves",
                     "lowqlid": 218016,
-                    "highqlid": 218017
+                    "lowql": 220,
+                    "highqlid": 218017,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1467,44 +1793,60 @@
                 {
                     "name": "Chosen Shade Leg Covers",
                     "lowqlid": 222661,
-                    "highqlid": 222662
+                    "lowql": 220,
+                    "highqlid": 222662,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Shade Foot Covers",
                     "lowqlid": 222663,
-                    "highqlid": 222664
+                    "lowql": 220,
+                    "highqlid": 222664,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Shade Body Wraps",
                     "lowqlid": 222667,
-                    "highqlid": 222668
+                    "lowql": 220,
+                    "highqlid": 222668,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Shade Arm Tattoos",
                     "lowqlid": 222669,
+                    "lowql": 220,
                     "highqlid": 222670,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Shade Hand Wraps",
                     "lowqlid": 222673,
-                    "highqlid": 222674
+                    "lowql": 220,
+                    "highqlid": 222674,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Shade Headgear",
                     "lowqlid": 222677,
-                    "highqlid": 222678
+                    "lowql": 220,
+                    "highqlid": 222678,
+                    "highql": 300
                 },
                 {
                     "name": "Chosen Shade Shoulder Tattoos",
                     "lowqlid": 222681,
+                    "lowql": 220,
                     "highqlid": 222682,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Chosen Shade Support System",
                     "lowqlid": 222683,
-                    "highqlid": 222684
+                    "lowql": 220,
+                    "highqlid": 222684,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1520,44 +1862,60 @@
                 {
                     "name": "Faithful Soldier Pants",
                     "lowqlid": 214824,
-                    "highqlid": 214825
+                    "lowql": 220,
+                    "highqlid": 214825,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Soldier Boots",
                     "lowqlid": 214826,
-                    "highqlid": 214827
+                    "lowql": 220,
+                    "highqlid": 214827,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Soldier Body Armor",
                     "lowqlid": 214828,
-                    "highqlid": 214829
+                    "lowql": 220,
+                    "highqlid": 214829,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Soldier Sleeves",
                     "lowqlid": 214830,
+                    "lowql": 220,
                     "highqlid": 214831,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Soldier Gloves",
                     "lowqlid": 214832,
-                    "highqlid": 214833
+                    "lowql": 220,
+                    "highqlid": 214833,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Soldier Helmet",
                     "lowqlid": 214834,
-                    "highqlid": 214835
+                    "lowql": 220,
+                    "highqlid": 214835,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Soldier Shoulderplate",
                     "lowqlid": 214836,
+                    "lowql": 220,
                     "highqlid": 214837,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Soldier Cuirass",
                     "lowqlid": 214838,
-                    "highqlid": 214839
+                    "lowql": 220,
+                    "highqlid": 214839,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1573,44 +1931,60 @@
                 {
                     "name": "Faithful Martial Artist Pants",
                     "lowqlid": 214808,
-                    "highqlid": 214809
+                    "lowql": 220,
+                    "highqlid": 214809,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Martial Artist Boots",
                     "lowqlid": 214810,
-                    "highqlid": 214811
+                    "lowql": 220,
+                    "highqlid": 214811,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Martial Artist Body Armor",
                     "lowqlid": 214812,
-                    "highqlid": 214813
+                    "lowql": 220,
+                    "highqlid": 214813,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Martial Artist Sleeves",
                     "lowqlid": 214814,
+                    "lowql": 220,
                     "highqlid": 214815,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Martial Artist Gloves",
                     "lowqlid": 214816,
-                    "highqlid": 214817
+                    "lowql": 220,
+                    "highqlid": 214817,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Martial Artist Helmet",
                     "lowqlid": 214818,
-                    "highqlid": 214819
+                    "lowql": 220,
+                    "highqlid": 214819,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Martial Artist Shoulderpads",
                     "lowqlid": 214820,
+                    "lowql": 220,
                     "highqlid": 214821,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Martial Artist Cuirass",
                     "lowqlid": 214822,
-                    "highqlid": 214823
+                    "lowql": 220,
+                    "highqlid": 214823,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1626,44 +2000,60 @@
                 {
                     "name": "Faithful Engineer Pants",
                     "lowqlid": 218206,
-                    "highqlid": 218207
+                    "lowql": 220,
+                    "highqlid": 218207,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Engineer Boots",
                     "lowqlid": 218208,
-                    "highqlid": 218209
+                    "lowql": 220,
+                    "highqlid": 218209,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Engineer Body",
                     "lowqlid": 218210,
-                    "highqlid": 218211
+                    "lowql": 220,
+                    "highqlid": 218211,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Engineer Sleeves",
                     "lowqlid": 218212,
+                    "lowql": 220,
                     "highqlid": 218213,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Engineer Gloves",
                     "lowqlid": 218214,
-                    "highqlid": 218215
+                    "lowql": 220,
+                    "highqlid": 218215,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Engineer Helmet",
                     "lowqlid": 218216,
-                    "highqlid": 218217
+                    "lowql": 220,
+                    "highqlid": 218217,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Engineer Shoulderpad",
                     "lowqlid": 218218,
+                    "lowql": 220,
                     "highqlid": 218219,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Engineer Helper",
                     "lowqlid": 218220,
-                    "highqlid": 218221
+                    "lowql": 220,
+                    "highqlid": 218221,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1679,44 +2069,60 @@
                 {
                     "name": "Faithful Fixer Manteau",
                     "lowqlid": 218260,
-                    "highqlid": 218261
+                    "lowql": 220,
+                    "highqlid": 218261,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Fixer Shoulderpad",
                     "lowqlid": 218262,
+                    "lowql": 220,
                     "highqlid": 218263,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Fixer Helmet",
                     "lowqlid": 218264,
-                    "highqlid": 218265
+                    "lowql": 220,
+                    "highqlid": 218265,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Fixer Gloves",
                     "lowqlid": 218266,
-                    "highqlid": 218267
+                    "lowql": 220,
+                    "highqlid": 218267,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Fixer Sleeves",
                     "lowqlid": 218268,
+                    "lowql": 220,
                     "highqlid": 218269,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Fixer Body Armor",
                     "lowqlid": 218270,
-                    "highqlid": 218271
+                    "lowql": 220,
+                    "highqlid": 218271,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Fixer Boots",
                     "lowqlid": 218272,
-                    "highqlid": 218273
+                    "lowql": 220,
+                    "highqlid": 218273,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Fixer Pants",
                     "lowqlid": 218274,
-                    "highqlid": 218275
+                    "lowql": 220,
+                    "highqlid": 218275,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1732,44 +2138,60 @@
                 {
                     "name": "Faithful Agent Pants",
                     "lowqlid": 218489,
-                    "highqlid": 218490
+                    "lowql": 220,
+                    "highqlid": 218490,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Agent Boots",
                     "lowqlid": 218514,
-                    "highqlid": 218515
+                    "lowql": 220,
+                    "highqlid": 218515,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Agent Body Armor",
                     "lowqlid": 218516,
-                    "highqlid": 218517
+                    "lowql": 220,
+                    "highqlid": 218517,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Agent Sleeves",
                     "lowqlid": 218518,
+                    "lowql": 220,
                     "highqlid": 218519,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Agent Gloves",
                     "lowqlid": 218520,
-                    "highqlid": 218521
+                    "lowql": 220,
+                    "highqlid": 218521,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Agent Helmet",
                     "lowqlid": 218522,
-                    "highqlid": 218523
+                    "lowql": 220,
+                    "highqlid": 218523,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Agent Shoulderpad",
                     "lowqlid": 218525,
+                    "lowql": 220,
                     "highqlid": 218526,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Agent Manteau",
                     "lowqlid": 218529,
-                    "highqlid": 218530
+                    "lowql": 220,
+                    "highqlid": 218530,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1785,44 +2207,60 @@
                 {
                     "name": "Faithful Adventurer Support System",
                     "lowqlid": 218606,
-                    "highqlid": 218607
+                    "lowql": 220,
+                    "highqlid": 218607,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Adventurer Shoulder Cover",
                     "lowqlid": 218608,
+                    "lowql": 220,
                     "highqlid": 218609,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Adventurer Helmet",
                     "lowqlid": 218610,
-                    "highqlid": 218611
+                    "lowql": 220,
+                    "highqlid": 218611,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Adventurer Gloves",
                     "lowqlid": 218612,
-                    "highqlid": 218613
+                    "lowql": 220,
+                    "highqlid": 218613,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Adventurer Sleeves",
                     "lowqlid": 218624,
+                    "lowql": 220,
                     "highqlid": 218625,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Adventurer Body Armor",
                     "lowqlid": 218626,
-                    "highqlid": 218627
+                    "lowql": 220,
+                    "highqlid": 218627,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Adventurer Boots",
                     "lowqlid": 218633,
-                    "highqlid": 218634
+                    "lowql": 220,
+                    "highqlid": 218634,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Adventurer Pants",
                     "lowqlid": 218635,
-                    "highqlid": 218636
+                    "lowql": 220,
+                    "highqlid": 218636,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1838,44 +2276,60 @@
                 {
                     "name": "Faithful Trader Pants",
                     "lowqlid": 218820,
-                    "highqlid": 218821
+                    "lowql": 220,
+                    "highqlid": 218821,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Trader Boots",
                     "lowqlid": 218858,
-                    "highqlid": 218859
+                    "lowql": 220,
+                    "highqlid": 218859,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Trader Body Armor",
                     "lowqlid": 218860,
-                    "highqlid": 218861
+                    "lowql": 220,
+                    "highqlid": 218861,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Trader Sleeves",
                     "lowqlid": 218862,
+                    "lowql": 220,
                     "highqlid": 218863,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Trader Gloves",
                     "lowqlid": 218864,
-                    "highqlid": 218865
+                    "lowql": 220,
+                    "highqlid": 218865,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Trader Helmet",
                     "lowqlid": 218866,
-                    "highqlid": 218867
+                    "lowql": 220,
+                    "highqlid": 218867,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Trader Shoulderpad",
                     "lowqlid": 218868,
+                    "lowql": 220,
                     "highqlid": 218869,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Trader Survival Gear",
                     "lowqlid": 218870,
-                    "highqlid": 218871
+                    "lowql": 220,
+                    "highqlid": 218871,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1891,44 +2345,60 @@
                 {
                     "name": "Faithful Bureaucrat Pants",
                     "lowqlid": 218945,
-                    "highqlid": 218946
+                    "lowql": 220,
+                    "highqlid": 218946,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Bureaucrat Boots",
                     "lowqlid": 218947,
-                    "highqlid": 218948
+                    "lowql": 220,
+                    "highqlid": 218948,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Bureaucrat Vest",
                     "lowqlid": 218949,
-                    "highqlid": 218950
+                    "lowql": 220,
+                    "highqlid": 218950,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Bureaucrat Sleeves",
                     "lowqlid": 218959,
+                    "lowql": 220,
                     "highqlid": 218960,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Bureaucrat Gloves",
                     "lowqlid": 218963,
-                    "highqlid": 218964
+                    "lowql": 220,
+                    "highqlid": 218964,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Bureaucrat Headgear",
                     "lowqlid": 218965,
-                    "highqlid": 218966
+                    "lowql": 220,
+                    "highqlid": 218966,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Bureaucrat Shoulderpad",
                     "lowqlid": 218967,
+                    "lowql": 220,
                     "highqlid": 218968,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Bureaucrat Cloak",
                     "lowqlid": 218969,
-                    "highqlid": 218970
+                    "lowql": 220,
+                    "highqlid": 218970,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1944,44 +2414,60 @@
                 {
                     "name": "Faithful Enforcer Pants",
                     "lowqlid": 220237,
-                    "highqlid": 220238
+                    "lowql": 220,
+                    "highqlid": 220238,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Enforcer Boots",
                     "lowqlid": 220239,
-                    "highqlid": 220240
+                    "lowql": 220,
+                    "highqlid": 220240,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Enforcer Breastplate",
                     "lowqlid": 220243,
-                    "highqlid": 220244
+                    "lowql": 220,
+                    "highqlid": 220244,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Enforcer Sleeves",
                     "lowqlid": 220247,
+                    "lowql": 220,
                     "highqlid": 220248,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Enforcer Gauntlets",
                     "lowqlid": 220251,
-                    "highqlid": 220252
+                    "lowql": 220,
+                    "highqlid": 220252,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Enforcer Helmet",
                     "lowqlid": 220255,
-                    "highqlid": 220256
+                    "lowql": 220,
+                    "highqlid": 220256,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Enforcer Shoulderplate",
                     "lowqlid": 220259,
+                    "lowql": 220,
                     "highqlid": 220260,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Enforcer Mantle",
                     "lowqlid": 220263,
-                    "highqlid": 220264
+                    "lowql": 220,
+                    "highqlid": 220264,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -1997,44 +2483,60 @@
                 {
                     "name": "Faithful Doctor Life Support",
                     "lowqlid": 217710,
-                    "highqlid": 217711
+                    "lowql": 220,
+                    "highqlid": 217711,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Doctor Shoulderpad",
                     "lowqlid": 217712,
+                    "lowql": 220,
                     "highqlid": 217713,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Doctor Helmet",
                     "lowqlid": 217714,
-                    "highqlid": 217715
+                    "lowql": 220,
+                    "highqlid": 217715,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Doctor Gloves",
                     "lowqlid": 217716,
-                    "highqlid": 217717
+                    "lowql": 220,
+                    "highqlid": 217717,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Doctor Sleeves",
                     "lowqlid": 217718,
+                    "lowql": 220,
                     "highqlid": 217719,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Doctor Body",
                     "lowqlid": 217720,
-                    "highqlid": 217721
+                    "lowql": 220,
+                    "highqlid": 217721,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Doctor Boots",
                     "lowqlid": 217722,
-                    "highqlid": 217723
+                    "lowql": 220,
+                    "highqlid": 217723,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Doctor Pants",
                     "lowqlid": 217724,
-                    "highqlid": 217725
+                    "lowql": 220,
+                    "highqlid": 217725,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -2050,44 +2552,60 @@
                 {
                     "name": "Faithful Nano Technician Cloak",
                     "lowqlid": 222746,
-                    "highqlid": 222747
+                    "lowql": 220,
+                    "highqlid": 222747,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Nano Technician Shoulderpad",
                     "lowqlid": 222748,
+                    "lowql": 220,
                     "highqlid": 222749,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Nano Technician Helmet",
                     "lowqlid": 222750,
-                    "highqlid": 222751
+                    "lowql": 220,
+                    "highqlid": 222751,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Nano Technician Gloves",
                     "lowqlid": 222754,
-                    "highqlid": 222755
+                    "lowql": 220,
+                    "highqlid": 222755,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Nano Technician Sleeves",
                     "lowqlid": 222758,
+                    "lowql": 220,
                     "highqlid": 222759,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Nano Technician Body Armor",
                     "lowqlid": 222762,
-                    "highqlid": 222763
+                    "lowql": 220,
+                    "highqlid": 222763,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Nano Technician Boots",
                     "lowqlid": 222766,
-                    "highqlid": 222767
+                    "lowql": 220,
+                    "highqlid": 222767,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Nano Technician Pants",
                     "lowqlid": 222770,
-                    "highqlid": 222771
+                    "lowql": 220,
+                    "highqlid": 222771,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -2103,44 +2621,60 @@
                 {
                     "name": "Faithful Metaphysicist Pants",
                     "lowqlid": 221451,
-                    "highqlid": 221453
+                    "lowql": 220,
+                    "highqlid": 221453,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Metaphysicist Boots",
                     "lowqlid": 221456,
-                    "highqlid": 221457
+                    "lowql": 220,
+                    "highqlid": 221457,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Metaphysicist Body Armor",
                     "lowqlid": 221462,
-                    "highqlid": 221463
+                    "lowql": 220,
+                    "highqlid": 221463,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Metaphysicist Sleeves",
                     "lowqlid": 221467,
+                    "lowql": 220,
                     "highqlid": 221469,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Metaphysicist Gloves",
                     "lowqlid": 221471,
-                    "highqlid": 221472
+                    "lowql": 220,
+                    "highqlid": 221472,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Metaphysicist Headgear",
                     "lowqlid": 221477,
-                    "highqlid": 221478
+                    "lowql": 220,
+                    "highqlid": 221478,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Metaphysicist Shoulder Cover",
                     "lowqlid": 221483,
+                    "lowql": 220,
                     "highqlid": 221484,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Metaphysicist Wings",
                     "lowqlid": 221486,
-                    "highqlid": 221487
+                    "lowql": 220,
+                    "highqlid": 221487,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -2156,44 +2690,60 @@
                 {
                     "name": "Faithful Keeper Support System",
                     "lowqlid": 216659,
-                    "highqlid": 216660
+                    "lowql": 220,
+                    "highqlid": 216660,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Keeper Pauldron",
                     "lowqlid": 216661,
+                    "lowql": 220,
                     "highqlid": 216662,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Keeper Barbute",
                     "lowqlid": 216663,
-                    "highqlid": 216664
+                    "lowql": 220,
+                    "highqlid": 216664,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Keeper Gauntlets",
                     "lowqlid": 216665,
-                    "highqlid": 216666
+                    "lowql": 220,
+                    "highqlid": 216666,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Keeper Vambrace",
                     "lowqlid": 216667,
+                    "lowql": 220,
                     "highqlid": 216668,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Keeper Cuirass",
                     "lowqlid": 216669,
-                    "highqlid": 216670
+                    "lowql": 220,
+                    "highqlid": 216670,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Keeper Sabatons",
                     "lowqlid": 216671,
-                    "highqlid": 216672
+                    "lowql": 220,
+                    "highqlid": 216672,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Keeper Greaves",
                     "lowqlid": 216673,
-                    "highqlid": 216674
+                    "lowql": 220,
+                    "highqlid": 216674,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -2209,44 +2759,60 @@
                 {
                     "name": "Faithful Shade Support System",
                     "lowqlid": 216675,
-                    "highqlid": 216676
+                    "lowql": 220,
+                    "highqlid": 216676,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Shade Shoulder Tattoos",
                     "lowqlid": 216677,
+                    "lowql": 220,
                     "highqlid": 216678,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Shade Headgear",
                     "lowqlid": 216679,
-                    "highqlid": 216680
+                    "lowql": 220,
+                    "highqlid": 216680,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Shade Hand Wraps",
                     "lowqlid": 216681,
-                    "highqlid": 216682
+                    "lowql": 220,
+                    "highqlid": 216682,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Shade Arm Tattoos",
                     "lowqlid": 216683,
+                    "lowql": 220,
                     "highqlid": 216684,
+                    "highql": 300,
                     "quantity": 2
                 },
                 {
                     "name": "Faithful Shade Body Wraps",
                     "lowqlid": 216685,
-                    "highqlid": 216686
+                    "lowql": 220,
+                    "highqlid": 216686,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Shade Foot Covers",
                     "lowqlid": 216687,
-                    "highqlid": 216688
+                    "lowql": 220,
+                    "highqlid": 216688,
+                    "highql": 300
                 },
                 {
                     "name": "Faithful Shade Leg Covers",
                     "lowqlid": 216689,
-                    "highqlid": 216690
+                    "lowql": 220,
+                    "highqlid": 216690,
+                    "highql": 300
                 }
             ],
             "tier": 3
@@ -2263,28 +2829,38 @@
                 {
                     "name": "First Tier Soldier Jobe Gloves",
                     "lowqlid": 217029,
-                    "highqlid": 217030
+                    "lowql": 100,
+                    "highqlid": 217030,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Soldier Jobe Sleeves",
                     "lowqlid": 217031,
+                    "lowql": 100,
                     "highqlid": 217032,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Soldier Jobe Body Armor",
                     "lowqlid": 217033,
-                    "highqlid": 217034
+                    "lowql": 100,
+                    "highqlid": 217034,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Soldier Jobe Boots",
                     "lowqlid": 217035,
-                    "highqlid": 217036
+                    "lowql": 100,
+                    "highqlid": 217036,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Soldier Jobe Pants",
                     "lowqlid": 217037,
-                    "highqlid": 217038
+                    "lowql": 100,
+                    "highqlid": 217038,
+                    "highql": 160
                 }
             ]
         },
@@ -2300,28 +2876,38 @@
                 {
                     "name": "First Tier Martial Artist Gloves",
                     "lowqlid": 217682,
-                    "highqlid": 217683
+                    "lowql": 100,
+                    "highqlid": 217683,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Martial Artist Sleeves",
                     "lowqlid": 217684,
+                    "lowql": 100,
                     "highqlid": 217685,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Martial Artist Body Armor",
                     "lowqlid": 217686,
-                    "highqlid": 217687
+                    "lowql": 100,
+                    "highqlid": 217687,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Martial Artist Boots",
                     "lowqlid": 217688,
-                    "highqlid": 217689
+                    "lowql": 100,
+                    "highqlid": 217689,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Martial Artist Pants",
                     "lowqlid": 217690,
-                    "highqlid": 217691
+                    "lowql": 100,
+                    "highqlid": 217691,
+                    "highql": 160
                 }
             ]
         },
@@ -2337,28 +2923,38 @@
                 {
                     "name": "First Tier Engineer Gloves",
                     "lowqlid": 218250,
-                    "highqlid": 218251
+                    "lowql": 100,
+                    "highqlid": 218251,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Engineer Sleeves",
                     "lowqlid": 218252,
+                    "lowql": 100,
                     "highqlid": 218253,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Engineer Body",
                     "lowqlid": 218254,
-                    "highqlid": 218255
+                    "lowql": 100,
+                    "highqlid": 218255,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Engineer Boots",
                     "lowqlid": 218256,
-                    "highqlid": 218257
+                    "lowql": 100,
+                    "highqlid": 218257,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Engineer Pants",
                     "lowqlid": 218258,
-                    "highqlid": 218259
+                    "lowql": 100,
+                    "highqlid": 218259,
+                    "highql": 160
                 }
             ]
         },
@@ -2374,28 +2970,38 @@
                 {
                     "name": "First Tier Fixer Pants",
                     "lowqlid": 218453,
-                    "highqlid": 218454
+                    "lowql": 100,
+                    "highqlid": 218454,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Fixer Boots",
                     "lowqlid": 218455,
-                    "highqlid": 218456
+                    "lowql": 100,
+                    "highqlid": 218456,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Fixer Body Armor",
                     "lowqlid": 218457,
-                    "highqlid": 218458
+                    "lowql": 100,
+                    "highqlid": 218458,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Fixer Sleeves",
                     "lowqlid": 218459,
+                    "lowql": 100,
                     "highqlid": 218460,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Fixer Gloves",
                     "lowqlid": 218461,
-                    "highqlid": 218462
+                    "lowql": 100,
+                    "highqlid": 218462,
+                    "highql": 160
                 }
             ]
         },
@@ -2411,28 +3017,38 @@
                 {
                     "name": "First Tier Agent Gloves",
                     "lowqlid": 218566,
-                    "highqlid": 218567
+                    "lowql": 100,
+                    "highqlid": 218567,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Agent Sleeves",
                     "lowqlid": 218568,
+                    "lowql": 100,
                     "highqlid": 218569,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Agent Body Armor",
                     "lowqlid": 218570,
-                    "highqlid": 218571
+                    "lowql": 100,
+                    "highqlid": 218571,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Agent Boots",
                     "lowqlid": 218572,
-                    "highqlid": 218573
+                    "lowql": 100,
+                    "highqlid": 218573,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Agent Pants",
                     "lowqlid": 218574,
-                    "highqlid": 218575
+                    "lowql": 100,
+                    "highqlid": 218575,
+                    "highql": 160
                 }
             ]
         },
@@ -2448,28 +3064,38 @@
                 {
                     "name": "First Tier Adventurer Jobe Suit Gloves",
                     "lowqlid": 213441,
-                    "highqlid": 213442
+                    "lowql": 100,
+                    "highqlid": 213442,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Adventurer Jobe Suit Sleeves",
                     "lowqlid": 213443,
+                    "lowql": 100,
                     "highqlid": 213444,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Adventurer Jobe Suit Body",
                     "lowqlid": 213445,
-                    "highqlid": 213446
+                    "lowql": 100,
+                    "highqlid": 213446,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Adventurer Jobe Suit Pants",
                     "lowqlid": 213449,
-                    "highqlid": 213450
+                    "lowql": 100,
+                    "highqlid": 213450,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Adventurer Boots",
                     "lowqlid": 213447,
-                    "highqlid": 213448
+                    "lowql": 100,
+                    "highqlid": 213448,
+                    "highql": 160
                 }
             ]
         },
@@ -2485,28 +3111,38 @@
                 {
                     "name": "First Tier Trader Pants",
                     "lowqlid": 218923,
-                    "highqlid": 218924
+                    "lowql": 100,
+                    "highqlid": 218924,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Trader Sleeves",
                     "lowqlid": 218925,
+                    "lowql": 100,
                     "highqlid": 218926,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Trader Body Armor",
                     "lowqlid": 218929,
-                    "highqlid": 218930
+                    "lowql": 100,
+                    "highqlid": 218930,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Trader Boots",
                     "lowqlid": 218931,
-                    "highqlid": 218932
+                    "lowql": 100,
+                    "highqlid": 218932,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Trader Gloves",
                     "lowqlid": 218933,
-                    "highqlid": 218934
+                    "lowql": 100,
+                    "highqlid": 218934,
+                    "highql": 160
                 }
             ]
         },
@@ -2522,28 +3158,38 @@
                 {
                     "name": "First Tier Bureaucrat Gloves",
                     "lowqlid": 219086,
-                    "highqlid": 219087
+                    "lowql": 100,
+                    "highqlid": 219087,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Bureaucrat Sleeves",
                     "lowqlid": 219088,
+                    "lowql": 100,
                     "highqlid": 219089,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Bureaucrat Vest",
                     "lowqlid": 219092,
-                    "highqlid": 219093
+                    "lowql": 100,
+                    "highqlid": 219093,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Bureaucrat Pants",
                     "lowqlid": 219096,
-                    "highqlid": 219097
+                    "lowql": 100,
+                    "highqlid": 219097,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Bureaucrat Boots",
                     "lowqlid": 219100,
-                    "highqlid": 219101
+                    "lowql": 100,
+                    "highqlid": 219101,
+                    "highql": 160
                 }
             ]
         },
@@ -2559,28 +3205,38 @@
                 {
                     "name": "First Tier Enforcer Pants",
                     "lowqlid": 222931,
-                    "highqlid": 222932
+                    "lowql": 100,
+                    "highqlid": 222932,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Enforcer Boots",
                     "lowqlid": 222933,
-                    "highqlid": 222934
+                    "lowql": 100,
+                    "highqlid": 222934,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Enforcer Breastplate",
                     "lowqlid": 222935,
-                    "highqlid": 222936
+                    "lowql": 100,
+                    "highqlid": 222936,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Enforcer Sleeves",
                     "lowqlid": 222939,
+                    "lowql": 100,
                     "highqlid": 222940,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Enforcer Gauntlets",
                     "lowqlid": 222941,
-                    "highqlid": 222942
+                    "lowql": 100,
+                    "highqlid": 222942,
+                    "highql": 160
                 }
             ]
         },
@@ -2596,28 +3252,38 @@
                 {
                     "name": "First Tier Doctor Suit Gloves",
                     "lowqlid": 217698,
-                    "highqlid": 217699
+                    "lowql": 100,
+                    "highqlid": 217699,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Doctor Suit Sleeves",
                     "lowqlid": 217700,
+                    "lowql": 100,
                     "highqlid": 217701,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Doctor Suit Body",
                     "lowqlid": 217702,
-                    "highqlid": 217703
+                    "lowql": 100,
+                    "highqlid": 217703,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Doctor Suit Boots",
                     "lowqlid": 217704,
-                    "highqlid": 217705
+                    "lowql": 100,
+                    "highqlid": 217705,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Doctor Suit Pants",
                     "lowqlid": 217706,
-                    "highqlid": 217707
+                    "lowql": 100,
+                    "highqlid": 217707,
+                    "highql": 160
                 }
             ]
         },
@@ -2633,28 +3299,38 @@
                 {
                     "name": "First Tier Nano Technician Pants",
                     "lowqlid": 222865,
-                    "highqlid": 222866
+                    "lowql": 100,
+                    "highqlid": 222866,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Nano Technician Boots",
                     "lowqlid": 222867,
-                    "highqlid": 222868
+                    "lowql": 100,
+                    "highqlid": 222868,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Nano Technician Body Armor",
                     "lowqlid": 222871,
-                    "highqlid": 222872
+                    "lowql": 100,
+                    "highqlid": 222872,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Nano Technician Sleeves",
                     "lowqlid": 222875,
+                    "lowql": 100,
                     "highqlid": 222876,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Nano Technician Gloves",
                     "lowqlid": 222879,
-                    "highqlid": 222880
+                    "lowql": 100,
+                    "highqlid": 222880,
+                    "highql": 160
                 }
             ]
         },
@@ -2670,28 +3346,38 @@
                 {
                     "name": "First Tier Metaphysicist Gloves",
                     "lowqlid": 222651,
-                    "highqlid": 222652
+                    "lowql": 100,
+                    "highqlid": 222652,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Metaphysicist Sleeves",
                     "lowqlid": 222653,
+                    "lowql": 100,
                     "highqlid": 222654,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Metaphysicist Body Armor",
                     "lowqlid": 222655,
-                    "highqlid": 222656
+                    "lowql": 100,
+                    "highqlid": 222656,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Metaphysicist Boots",
                     "lowqlid": 222657,
-                    "highqlid": 222658
+                    "lowql": 100,
+                    "highqlid": 222658,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Metaphysicist Pants",
                     "lowqlid": 222659,
-                    "highqlid": 222660
+                    "lowql": 100,
+                    "highqlid": 222660,
+                    "highql": 160
                 }
             ]
         },
@@ -2707,28 +3393,38 @@
                 {
                     "name": "First Tier Keeper Greaves",
                     "lowqlid": 218050,
-                    "highqlid": 218051
+                    "lowql": 100,
+                    "highqlid": 218051,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Keeper Sabatons",
                     "lowqlid": 218052,
-                    "highqlid": 218053
+                    "lowql": 100,
+                    "highqlid": 218053,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Keeper Cuirass",
                     "lowqlid": 218054,
-                    "highqlid": 218055
+                    "lowql": 100,
+                    "highqlid": 218055,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Keeper Vambrace",
                     "lowqlid": 218056,
+                    "lowql": 100,
                     "highqlid": 218057,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Keeper Gauntlets",
                     "lowqlid": 218058,
-                    "highqlid": 218059
+                    "lowql": 100,
+                    "highqlid": 218059,
+                    "highql": 160
                 }
             ]
         },
@@ -2744,28 +3440,38 @@
                 {
                     "name": "First Tier Shade Leg Covers",
                     "lowqlid": 222921,
-                    "highqlid": 222922
+                    "lowql": 100,
+                    "highqlid": 222922,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Shade Foot Covers",
                     "lowqlid": 222923,
-                    "highqlid": 222924
+                    "lowql": 100,
+                    "highqlid": 222924,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Shade Body Wraps",
                     "lowqlid": 222925,
-                    "highqlid": 222926
+                    "lowql": 100,
+                    "highqlid": 222926,
+                    "highql": 160
                 },
                 {
                     "name": "First Tier Shade Arm Tattoos",
                     "lowqlid": 222927,
+                    "lowql": 100,
                     "highqlid": 222928,
+                    "highql": 160,
                     "quantity": 2
                 },
                 {
                     "name": "First Tier Shade Hand Wraps",
                     "lowqlid": 222929,
-                    "highqlid": 222930
+                    "lowql": 100,
+                    "highqlid": 222930,
+                    "highql": 160
                 }
             ]
         },
@@ -2781,38 +3487,52 @@
                 {
                     "name": "Second Tier Soldier Jobe Pants",
                     "lowqlid": 216992,
-                    "highqlid": 216993
+                    "lowql": 160,
+                    "highqlid": 216993,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Soldier Jobe Boots",
                     "lowqlid": 216994,
-                    "highqlid": 216995
+                    "lowql": 160,
+                    "highqlid": 216995,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Soldier Jobe Body Armor",
                     "lowqlid": 216996,
-                    "highqlid": 216997
+                    "lowql": 160,
+                    "highqlid": 216997,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Soldier Jobe Sleeves",
                     "lowqlid": 216998,
+                    "lowql": 160,
                     "highqlid": 216999,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Soldier Jobe Gloves",
                     "lowqlid": 217000,
-                    "highqlid": 217001
+                    "lowql": 160,
+                    "highqlid": 217001,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Soldier Jobe Helmet",
                     "lowqlid": 217002,
-                    "highqlid": 217003
+                    "lowql": 160,
+                    "highqlid": 217003,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Soldier Jobe Cuirass",
                     "lowqlid": 217004,
-                    "highqlid": 217005
+                    "lowql": 160,
+                    "highqlid": 217005,
+                    "highql": 220
                 }
             ]
         },
@@ -2828,38 +3548,52 @@
                 {
                     "name": "Second Tier Martial Artist Pants",
                     "lowqlid": 217653,
-                    "highqlid": 217654
+                    "lowql": 160,
+                    "highqlid": 217654,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Martial Artist Boots",
                     "lowqlid": 217655,
-                    "highqlid": 217656
+                    "lowql": 160,
+                    "highqlid": 217656,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Martial Artist Body Armor",
                     "lowqlid": 217657,
-                    "highqlid": 217658
+                    "lowql": 160,
+                    "highqlid": 217658,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Martial Artist Sleeves",
                     "lowqlid": 217659,
+                    "lowql": 160,
                     "highqlid": 217660,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Martial Artist Gloves",
                     "lowqlid": 217661,
-                    "highqlid": 217662
+                    "lowql": 160,
+                    "highqlid": 217662,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Martial Artist Helmet",
                     "lowqlid": 217663,
-                    "highqlid": 217664
+                    "lowql": 160,
+                    "highqlid": 217664,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Martial Artist Cuirass",
                     "lowqlid": 217665,
-                    "highqlid": 217666
+                    "lowql": 160,
+                    "highqlid": 217666,
+                    "highql": 220
                 }
             ]
         },
@@ -2875,39 +3609,53 @@
                 {
                     "name": "Second Tier Engineer Shoulderpad",
                     "lowqlid": 218236,
+                    "lowql": 160,
                     "highqlid": 218237,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Engineer Helmet",
                     "lowqlid": 218238,
-                    "highqlid": 218239
+                    "lowql": 160,
+                    "highqlid": 218239,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Engineer Gloves",
                     "lowqlid": 218240,
-                    "highqlid": 218241
+                    "lowql": 160,
+                    "highqlid": 218241,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Engineer Sleeves",
                     "lowqlid": 218242,
+                    "lowql": 160,
                     "highqlid": 218243,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Engineer Body",
                     "lowqlid": 218244,
-                    "highqlid": 218245
+                    "lowql": 160,
+                    "highqlid": 218245,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Engineer Boots",
                     "lowqlid": 218246,
-                    "highqlid": 218247
+                    "lowql": 160,
+                    "highqlid": 218247,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Engineer Pants",
                     "lowqlid": 218248,
-                    "highqlid": 218249
+                    "lowql": 160,
+                    "highqlid": 218249,
+                    "highql": 220
                 }
             ]
         },
@@ -2923,39 +3671,53 @@
                 {
                     "name": "Second Tier Fixer Shoulderpad",
                     "lowqlid": 218427,
+                    "lowql": 160,
                     "highqlid": 218428,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Fixer Helmet",
                     "lowqlid": 218429,
-                    "highqlid": 218430
+                    "lowql": 160,
+                    "highqlid": 218430,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Fixer Gloves",
                     "lowqlid": 218431,
-                    "highqlid": 218432
+                    "lowql": 160,
+                    "highqlid": 218432,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Fixer Sleeves",
                     "lowqlid": 218433,
+                    "lowql": 160,
                     "highqlid": 218434,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Fixer Body Armor",
                     "lowqlid": 218435,
-                    "highqlid": 218436
+                    "lowql": 160,
+                    "highqlid": 218436,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Fixer Boots",
                     "lowqlid": 218437,
-                    "highqlid": 218438
+                    "lowql": 160,
+                    "highqlid": 218438,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Fixer Pants",
                     "lowqlid": 218439,
-                    "highqlid": 218440
+                    "lowql": 160,
+                    "highqlid": 218440,
+                    "highql": 220
                 }
             ]
         },
@@ -2971,38 +3733,52 @@
                 {
                     "name": "Second Tier Agent Pants",
                     "lowqlid": 218551,
-                    "highqlid": 218552
+                    "lowql": 160,
+                    "highqlid": 218552,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Agent Boots",
                     "lowqlid": 218553,
-                    "highqlid": 218554
+                    "lowql": 160,
+                    "highqlid": 218554,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Agent Body Armor",
                     "lowqlid": 218555,
-                    "highqlid": 218556
+                    "lowql": 160,
+                    "highqlid": 218556,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Agent Sleeves",
                     "lowqlid": 218557,
+                    "lowql": 160,
                     "highqlid": 218558,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Agent Gloves",
                     "lowqlid": 218559,
-                    "highqlid": 218560
+                    "lowql": 160,
+                    "highqlid": 218560,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Agent Helmet",
                     "lowqlid": 218562,
-                    "highqlid": 218563
+                    "lowql": 160,
+                    "highqlid": 218563,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Agent Shoulderpad",
                     "lowqlid": 218564,
+                    "lowql": 160,
                     "highqlid": 218565,
+                    "highql": 220,
                     "quantity": 2
                 }
             ]
@@ -3019,38 +3795,52 @@
                 {
                     "name": "Second Tier Adventurer Pants",
                     "lowqlid": 218689,
-                    "highqlid": 218690
+                    "lowql": 160,
+                    "highqlid": 218690,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Adventurer Boots",
                     "lowqlid": 218691,
-                    "highqlid": 218692
+                    "lowql": 160,
+                    "highqlid": 218692,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Adventurer Body Armor",
                     "lowqlid": 218693,
-                    "highqlid": 218694
+                    "lowql": 160,
+                    "highqlid": 218694,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Adventurer Sleeves",
                     "lowqlid": 218696,
+                    "lowql": 160,
                     "highqlid": 218697,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Adventurer Gloves",
                     "lowqlid": 218698,
-                    "highqlid": 218699
+                    "lowql": 160,
+                    "highqlid": 218699,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Adventurer Helmet",
                     "lowqlid": 218717,
-                    "highqlid": 218718
+                    "lowql": 160,
+                    "highqlid": 218718,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Adventurer Support System",
                     "lowqlid": 218726,
-                    "highqlid": 218727
+                    "lowql": 160,
+                    "highqlid": 218727,
+                    "highql": 220
                 }
             ]
         },
@@ -3066,38 +3856,52 @@
                 {
                     "name": "Second Tier Trader Pants",
                     "lowqlid": 218909,
-                    "highqlid": 218910
+                    "lowql": 160,
+                    "highqlid": 218910,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Trader Boots",
                     "lowqlid": 218911,
-                    "highqlid": 218912
+                    "lowql": 160,
+                    "highqlid": 218912,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Trader Body Armor",
                     "lowqlid": 218913,
-                    "highqlid": 218914
+                    "lowql": 160,
+                    "highqlid": 218914,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Trader Sleeves",
                     "lowqlid": 218915,
+                    "lowql": 160,
                     "highqlid": 218916,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Trader Gloves",
                     "lowqlid": 218917,
-                    "highqlid": 218918
+                    "lowql": 160,
+                    "highqlid": 218918,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Trader Helmet",
                     "lowqlid": 218919,
-                    "highqlid": 218920
+                    "lowql": 160,
+                    "highqlid": 218920,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Trader Shoulderpad",
                     "lowqlid": 218921,
+                    "lowql": 160,
                     "highqlid": 218922,
+                    "highql": 220,
                     "quantity": 2
                 }
             ]
@@ -3114,39 +3918,53 @@
                 {
                     "name": "Second Tier Bureaucrat Shoulderpad",
                     "lowqlid": 219055,
+                    "lowql": 160,
                     "highqlid": 219056,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Bureaucrat Headgear",
                     "lowqlid": 219057,
-                    "highqlid": 219058
+                    "lowql": 160,
+                    "highqlid": 219058,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Bureaucrat Gloves",
                     "lowqlid": 219059,
-                    "highqlid": 219060
+                    "lowql": 160,
+                    "highqlid": 219060,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Bureaucrat Sleeves",
                     "lowqlid": 219061,
+                    "lowql": 160,
                     "highqlid": 219062,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Bureaucrat Vest",
                     "lowqlid": 219065,
-                    "highqlid": 219066
+                    "lowql": 160,
+                    "highqlid": 219066,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Bureaucrat Boots",
                     "lowqlid": 219067,
-                    "highqlid": 219068
+                    "lowql": 160,
+                    "highqlid": 219068,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Bureaucrat Pants",
                     "lowqlid": 219069,
-                    "highqlid": 219070
+                    "lowql": 160,
+                    "highqlid": 219070,
+                    "highql": 220
                 }
             ]
         },
@@ -3162,38 +3980,52 @@
                 {
                     "name": "Second Tier Enforcer Pants",
                     "lowqlid": 220303,
-                    "highqlid": 220304
+                    "lowql": 160,
+                    "highqlid": 220304,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Enforcer Boots",
                     "lowqlid": 220305,
-                    "highqlid": 220306
+                    "lowql": 160,
+                    "highqlid": 220306,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Enforcer Breastplate",
                     "lowqlid": 220307,
-                    "highqlid": 220308
+                    "lowql": 160,
+                    "highqlid": 220308,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Enforcer Sleeves",
                     "lowqlid": 220310,
+                    "lowql": 160,
                     "highqlid": 220311,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Enforcer Gauntlets",
                     "lowqlid": 220313,
-                    "highqlid": 220314
+                    "lowql": 160,
+                    "highqlid": 220314,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Enforcer Helmet",
                     "lowqlid": 220315,
-                    "highqlid": 220316
+                    "lowql": 160,
+                    "highqlid": 220316,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Enforcer Shoulderplate",
                     "lowqlid": 220317,
+                    "lowql": 160,
                     "highqlid": 220318,
+                    "highql": 220,
                     "quantity": 2
                 }
             ]
@@ -3210,38 +4042,52 @@
                 {
                     "name": "Second Tier Doctor Suit Pants",
                     "lowqlid": 214755,
-                    "highqlid": 214756
+                    "lowql": 160,
+                    "highqlid": 214756,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Doctor Suit Boots",
                     "lowqlid": 214757,
-                    "highqlid": 214758
+                    "lowql": 160,
+                    "highqlid": 214758,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Doctor Suit Body",
                     "lowqlid": 214759,
-                    "highqlid": 214760
+                    "lowql": 160,
+                    "highqlid": 214760,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Doctor Suit Sleeves",
                     "lowqlid": 214761,
+                    "lowql": 160,
                     "highqlid": 214762,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Doctor Suit Gloves",
                     "lowqlid": 214763,
-                    "highqlid": 214764
+                    "lowql": 160,
+                    "highqlid": 214764,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Doctor Suit Helmet",
                     "lowqlid": 214765,
-                    "highqlid": 214766
+                    "lowql": 160,
+                    "highqlid": 214766,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Doctor Suit Shoulderpad",
                     "lowqlid": 214767,
+                    "lowql": 160,
                     "highqlid": 214768,
+                    "highql": 220,
                     "quantity": 2
                 }
             ]
@@ -3258,39 +4104,53 @@
                 {
                     "name": "Second Tier Nano Technician Shoulderpad",
                     "lowqlid": 222774,
+                    "lowql": 160,
                     "highqlid": 222775,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Nano Technician Helmet",
                     "lowqlid": 222783,
-                    "highqlid": 222784
+                    "lowql": 160,
+                    "highqlid": 222784,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Nano Technician Gloves",
                     "lowqlid": 222785,
-                    "highqlid": 222786
+                    "lowql": 160,
+                    "highqlid": 222786,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Nano Technician Sleeves",
                     "lowqlid": 222789,
+                    "lowql": 160,
                     "highqlid": 222790,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Nano Technician Body Armor",
                     "lowqlid": 222793,
-                    "highqlid": 222794
+                    "lowql": 160,
+                    "highqlid": 222794,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Nano Technician Boots",
                     "lowqlid": 222797,
-                    "highqlid": 222798
+                    "lowql": 160,
+                    "highqlid": 222798,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Nano Technician Pants",
                     "lowqlid": 222801,
-                    "highqlid": 222802
+                    "lowql": 160,
+                    "highqlid": 222802,
+                    "highql": 220
                 }
             ]
         },
@@ -3306,39 +4166,53 @@
                 {
                     "name": "Second Tier Metaphysicist Shoulder Cover",
                     "lowqlid": 222629,
+                    "lowql": 160,
                     "highqlid": 222630,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Metaphysicist Headgear",
                     "lowqlid": 222631,
-                    "highqlid": 222632
+                    "lowql": 160,
+                    "highqlid": 222632,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Metaphysicist Gloves",
                     "lowqlid": 222633,
-                    "highqlid": 222634
+                    "lowql": 160,
+                    "highqlid": 222634,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Metaphysicist Sleeves",
                     "lowqlid": 222637,
+                    "lowql": 160,
                     "highqlid": 222638,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Metaphysicist Body Armor",
                     "lowqlid": 222641,
-                    "highqlid": 222642
+                    "lowql": 160,
+                    "highqlid": 222642,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Metaphysicist Boots",
                     "lowqlid": 222645,
-                    "highqlid": 222646
+                    "lowql": 160,
+                    "highqlid": 222646,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Metaphysicist Pants",
                     "lowqlid": 222649,
-                    "highqlid": 222650
+                    "lowql": 160,
+                    "highqlid": 222650,
+                    "highql": 220
                 }
             ]
         },
@@ -3354,39 +4228,53 @@
                 {
                     "name": "Second Tier Keeper Pauldron",
                     "lowqlid": 218036,
+                    "lowql": 160,
                     "highqlid": 218037,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Keeper Barbute",
                     "lowqlid": 218038,
-                    "highqlid": 218039
+                    "lowql": 160,
+                    "highqlid": 218039,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Keeper Gauntlets",
                     "lowqlid": 218040,
-                    "highqlid": 218041
+                    "lowql": 160,
+                    "highqlid": 218041,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Keeper Vambrace",
                     "lowqlid": 218042,
+                    "lowql": 160,
                     "highqlid": 218043,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Keeper Cuirass",
                     "lowqlid": 218044,
-                    "highqlid": 218045
+                    "lowql": 160,
+                    "highqlid": 218045,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Keeper Sabatons",
                     "lowqlid": 218046,
-                    "highqlid": 218047
+                    "lowql": 160,
+                    "highqlid": 218047,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Keeper Greaves",
                     "lowqlid": 218048,
-                    "highqlid": 218049
+                    "lowql": 160,
+                    "highqlid": 218049,
+                    "highql": 220
                 }
             ]
         },
@@ -3402,38 +4290,52 @@
                 {
                     "name": "Second Tier Shade Leg Covers",
                     "lowqlid": 222897,
-                    "highqlid": 222898
+                    "lowql": 160,
+                    "highqlid": 222898,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Shade Foot Covers",
                     "lowqlid": 222899,
-                    "highqlid": 222900
+                    "lowql": 160,
+                    "highqlid": 222900,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Shade Body Wraps",
                     "lowqlid": 222901,
-                    "highqlid": 222902
+                    "lowql": 160,
+                    "highqlid": 222902,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Shade Arm Tattoos",
                     "lowqlid": 222903,
+                    "lowql": 160,
                     "highqlid": 222904,
+                    "highql": 220,
                     "quantity": 2
                 },
                 {
                     "name": "Second Tier Shade Hand Wraps",
                     "lowqlid": 222907,
-                    "highqlid": 222908
+                    "lowql": 160,
+                    "highqlid": 222908,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Shade Headgear",
                     "lowqlid": 222911,
-                    "highqlid": 222912
+                    "lowql": 160,
+                    "highqlid": 222912,
+                    "highql": 220
                 },
                 {
                     "name": "Second Tier Shade Shoulder Tattoos",
                     "lowqlid": 222913,
+                    "lowql": 160,
                     "highqlid": 222914,
+                    "highql": 220,
                     "quantity": 2
                 }
             ]
@@ -3447,7 +4349,9 @@
                 {
                     "name": "TESTLIVEITEM: Testlive Token",
                     "lowqlid": 285141,
-                    "highqlid": 285141
+                    "lowql": 1,
+                    "highqlid": 285141,
+                    "highql": 1
                 }
             ]
         }
