@@ -4354,6 +4354,86 @@
                     "highql": 1
                 }
             ]
+        },
+        {
+            "hash": "TSSA",
+            "name": "TESTLIVEITEM: Spawn StarterPack",
+            "category": "Test Item",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTLIVEITEM: Spawn StarterPack",
+                    "lowqlid": 273041,
+                    "lowql": 1,
+                    "highqlid": 273041,
+                    "highql": 1
+                }
+            ]
+        },
+        {
+            "hash": "ASST",
+            "name": "TESTLIVEITEM: StarterPack",
+            "category": "Test Item",
+            "available": true,
+            "items": [
+                {
+                    "name": "TESTLIVEITEM: StarterPack",
+                    "lowqlid": 273042,
+                    "lowql": 1,
+                    "highqlid": 273042,
+                    "highql": 1
+                },
+                {
+                    "name": "TESTLIVEITEM: StarterPack",
+                    "lowqlid": 273043,
+                    "lowql": 2,
+                    "highqlid": 273043,
+                    "highql": 2
+                },
+                {
+                    "name": "TESTLIVEITEM: StarterPack",
+                    "lowqlid": 273044,
+                    "lowql": 3,
+                    "highqlid": 273044,
+                    "highql": 3
+                },
+                {
+                    "name": "TESTLIVEITEM: StarterPack",
+                    "lowqlid": 273045,
+                    "lowql": 4,
+                    "highqlid": 273045,
+                    "highql": 4
+                },
+                {
+                    "name": "TESTLIVEITEM: StarterPack",
+                    "lowqlid": 273046,
+                    "lowql": 5,
+                    "highqlid": 273046,
+                    "highql": 5
+                },
+                {
+                    "name": "TESTLIVEITEM: StarterPack",
+                    "lowqlid": 295820,
+                    "lowql": 6,
+                    "highqlid": 295820,
+                    "highql": 6
+                }
+            ]
+        },
+        {
+            "hash": "DIBK",
+            "name": "Nano Crystal (TESTLIVEITEM: XP Bonus)",
+            "category": "Test Item",
+            "available": true,
+            "items": [
+                {
+                    "name": "Nano Crystal (TESTLIVEITEM: XP Bonus)",
+                    "lowqlid": 273049,
+                    "lowql": 1,
+                    "highqlid": 273049,
+                    "highql": 1
+                }
+            ]
         }
     ]
 }
